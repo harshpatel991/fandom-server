@@ -10,7 +10,7 @@ var session = require('express-session');
 var router = express.Router();
 
 //replace this with your Mongolab URL
-mongoose.connect('mongodb://me:1@ds061661.mongolab.com:61661/passport-demo');
+mongoose.connect('mongodb://fandom-user:password@dbh11.mongolab.com:27117/fandom');
 require('./config/passport')(passport);
 
 var app = express(); // Create our Express application
@@ -30,19 +30,13 @@ var allowCrossDomain = function(req, res, next) {
   next();
 };
 app.use(allowCrossDomain);
-
-// Use the body-parser package in our application
-app.use(bodyParser.urlencoded({
+app.use(bodyParser.urlencoded({ // Use the body-parser package in our application
   extended: true
 }));
-
 app.use(session({ secret: 'passport demo' }));
-
 app.use(passport.initialize());
 app.use(passport.session());
-
-// All our routes will start with /api
-app.use('/api', router);
+app.use('/api', router); // All our routes will start with /api
 
 
 // ===========START ROUTES===========
@@ -84,6 +78,16 @@ function isLoggedIn(req, res, next) {
     error: "User not logged in"
   });
 }
+
+
+
+
+//TODO: Add more routes here
+
+
+
+
+
 
 // Start the server
 app.listen(port);
