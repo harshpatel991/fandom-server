@@ -83,7 +83,84 @@ function isLoggedIn(req, res, next) {
 
 
 //TODO: Add more routes here
+router.route('/show_comments/:ep_id')
+.get(function(req, res){
+  console.log("GET comments");
+  var ep_id = req.params.ep_id;
+  Comment.find({assignedShow:ep_id},function(err,data){
+    if(err){
+      res.send({message:err.name,data:[]});
+    }
+    else{
+      res.send({message:"Data retrieved",data:data})
+    }
+  });
+})
 
+.post(function(req,res){
+  console.log("Post comments");
+  var comment = new Comment();
+  var ep_id = req.params.ep_id;
+  var content = req.body.comment;
+  comment.content = content;
+  comment.assignedShow = ep_id;
+  comment.save();
+  res.send({message: "Success", data: comment});
+});
+
+router.route('/comments/:comment_id')
+.get(function(req, res){
+  var comment_id = req.params.comment_id;
+  Comment.find({assignedComment:comment_id},function(err,data){
+    if(err){
+      res.send({message:err.name,data:[]});
+    }
+    else{
+      res.send({message:"Data retrieved",data:data});
+    }
+  });
+})
+
+.post(function(req, res){
+  var comment = new Comment();
+  var comment_id = req.params.comment_id;
+  var content = req.body.content;
+  comment.content = content;
+  comment.assignedComment = comment_id;
+  child_id = comment.save();
+
+  //add comment to its parent
+  Comment.findOne({_id:comment_id},function(err, data){
+    data.childComments.push(child_id);
+  });
+  
+  res.send({message: "Success", data: comment});
+})
+
+.put(function(req, res){
+  //change ratings
+  var comment_id = req.params.comment_id;
+
+  var condition = {_id: comment_id};
+  var update = {$inc: {rating: 1}};
+  var options = {multi: true};
+
+  Comment.findOne(condition,function(err, data){
+    if(err){
+        res.send({message:err.name,data:[]});
+      }
+      else{
+        console.log("success");
+        data.rating += 1;
+        res.send({message:"Data retrieved",data:data})
+        data.save();
+      }
+  });
+})
+
+.delete(function(req, res){
+
+});
 
 
 
