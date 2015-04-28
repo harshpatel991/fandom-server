@@ -3,6 +3,7 @@ var express = require('express');
 var mongoose = require('mongoose');
 var passport = require('passport');
 var Llama = require('./models/llama');
+var Comment = require('./models/Comment');
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
@@ -83,11 +84,12 @@ function isLoggedIn(req, res, next) {
 
 
 //TODO: Add more routes here
-router.route('/show_comments/:ep_id')
-.get(function(req, res){
+//------------------show_comments------------------//
+var show_comments_route = router.route('/show_comments/:ep_id');
+show_comments_route.get(function(req, res){
   console.log("GET comments");
   var ep_id = req.params.ep_id;
-  Comment.find({assignedShow:ep_id},function(err,data){
+  Comment.find({episode_id:ep_id},function(err,data){
     if(err){
       res.send({message:err.name,data:[]});
     }
@@ -95,75 +97,95 @@ router.route('/show_comments/:ep_id')
       res.send({message:"Data retrieved",data:data})
     }
   });
-})
-
-.post(function(req,res){
-  console.log("Post comments");
-  var comment = new Comment();
-  var ep_id = req.params.ep_id;
-  var content = req.body.comment;
-  comment.content = content;
-  comment.assignedShow = ep_id;
-  comment.save();
-  res.send({message: "Success", data: comment});
 });
 
-router.route('/comments/:comment_id')
-.get(function(req, res){
+
+//------------------comment_comments------------------//
+var comment_comments_route = router.route('/comment_comments/:comment_id');
+comment_comments_route.get(function(req, res){
   var comment_id = req.params.comment_id;
-  Comment.find({assignedComment:comment_id},function(err,data){
+  Comment.find({parent_id: comment_id},function(err, data){
     if(err){
       res.send({message:err.name,data:[]});
     }
     else{
-      res.send({message:"Data retrieved",data:data});
+      res.send({message:"Data retrieved",data:data})
     }
   });
-})
+});
 
-.post(function(req, res){
-  var comment = new Comment();
-  var comment_id = req.params.comment_id;
-  var content = req.body.content;
-  comment.content = content;
-  comment.assignedComment = comment_id;
-  child_id = comment.save();
 
-  //add comment to its parent
-  Comment.findOne({_id:comment_id},function(err, data){
-    data.childComments.push(child_id);
-  });
-  
-  res.send({message: "Success", data: comment});
-})
-
-.put(function(req, res){
+//------------------vote_comments------------------//
+var vote_comments_route = router.route('/vote_comments/:comment_id');
+vote_comments_route.put(function(req, res){
   //change ratings
   var comment_id = req.params.comment_id;
-
+  var IncOrDec = req.body.IncOrDec;
   var condition = {_id: comment_id};
-  var update = {$inc: {rating: 1}};
-  var options = {multi: true};
-
+  
   Comment.findOne(condition,function(err, data){
     if(err){
         res.send({message:err.name,data:[]});
       }
       else{
-        console.log("success");
-        data.rating += 1;
+        if(IncOrDec == "increase"){
+           data.points += 1;
+        }
+        else{
+          data.points -= 1;
+        }
         res.send({message:"Data retrieved",data:data})
         data.save();
       }
   });
 })
 
-.delete(function(req, res){
 
+//------------------add_comments------------------//
+var add_comments_route = router.route("/add_comments");
+add_comments_route.post(function(req, res){
+  //decide if it's a comment of show or comment of comments
+  var comment = new Comment();
+  if(req.body.episode_id){
+    comment.episode_id = req.body.episode_id;
+  }
+  if(req.body.parent_id){
+    comment.parent_id = req.body.parent_id;
+  }
+
+  comment.poster = req.body.poster;
+  comment.post_time = req.body.post_time;
+  comment.text = req.body.text;
+
+  comment.save();
+  res.send({message:"created", data:comment});
 });
 
 
-
+//------------------delete_comments------------------//
+var delete_comments_route = router.route("/delete_comments/:comment_id");
+delete_comments_route.delete(function(req, res){
+  //delete all the children comments
+  Comment.find({parent_id: req.params.comment_id},function(err, data){
+    if(err){
+      res.send({message:err.name,data:[]});
+    }
+    else{
+      for(obj in data){
+        Comment.remove({_id: data[obj]._id});
+      }
+    }
+  });
+  //delete itself
+  Comment.remove({_id: req.params.comment_id},function(err, data){
+    if(err){
+      res.send({message:err.name,data:[]});
+    }
+    else{
+      res.send({message:"Deleted",data:data});
+    }
+  });
+});
 
 
 // Start the server
