@@ -2,8 +2,10 @@
 var express = require('express');
 var mongoose = require('mongoose');
 var passport = require('passport');
-var Llama = require('./models/llama');
-var Comment = require('./models/Comment');
+var Show = require('./models/show');
+var Comment = require('./models/comment');
+var Season = require('./models/season');
+var Episode = require('./models/episode');
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
@@ -99,7 +101,6 @@ show_comments_route.get(function(req, res){
 
 //---post---//
 show_comments_route.post(function(req, res){
-  //decide if it's a comment of show or comment of comments
   var comment = new Comment();
   comment.episode_id = req.params.ep_id;
   if(req.body.parent_id){

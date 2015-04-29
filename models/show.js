@@ -22,4 +22,4 @@ var ShowSchema   = new mongoose.Schema({
 });
 
 // Export the Mongoose model
-module.exports = mongoose.model('Llama', LlamaSchema);
+module.exports = mongoose.model('Show', ShowSchema);
