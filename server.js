@@ -81,11 +81,9 @@ function isLoggedIn(req, res, next) {
 }
 
 
-
-
-//TODO: Add more routes here
 //------------------show_comments------------------//
 var show_comments_route = router.route('/show_comments/:ep_id');
+//---get----//
 show_comments_route.get(function(req, res){
   console.log("GET comments");
   var ep_id = req.params.ep_id;
@@ -99,21 +97,22 @@ show_comments_route.get(function(req, res){
   });
 });
 
+//---post---//
+show_comments_route.post(function(req, res){
+  //decide if it's a comment of show or comment of comments
+  var comment = new Comment();
+  comment.episode_id = req.params.ep_id;
+  if(req.body.parent_id){
+    comment.parent_id = req.body.parent_id;
+  }
 
-//------------------comment_comments------------------//
-var comment_comments_route = router.route('/comment_comments/:comment_id');
-comment_comments_route.get(function(req, res){
-  var comment_id = req.params.comment_id;
-  Comment.find({parent_id: comment_id},function(err, data){
-    if(err){
-      res.send({message:err.name,data:[]});
-    }
-    else{
-      res.send({message:"Data retrieved",data:data})
-    }
-  });
+  comment.poster = req.body.poster;
+  comment.post_time = req.body.post_time;
+  comment.text = req.body.text;
+
+  comment.save();
+  res.send({message:"created", data:comment});
 });
-
 
 //------------------vote_comments------------------//
 var vote_comments_route = router.route('/vote_comments/:comment_id');
@@ -141,41 +140,9 @@ vote_comments_route.put(function(req, res){
 })
 
 
-//------------------add_comments------------------//
-var add_comments_route = router.route("/add_comments");
-add_comments_route.post(function(req, res){
-  //decide if it's a comment of show or comment of comments
-  var comment = new Comment();
-  if(req.body.episode_id){
-    comment.episode_id = req.body.episode_id;
-  }
-  if(req.body.parent_id){
-    comment.parent_id = req.body.parent_id;
-  }
-
-  comment.poster = req.body.poster;
-  comment.post_time = req.body.post_time;
-  comment.text = req.body.text;
-
-  comment.save();
-  res.send({message:"created", data:comment});
-});
-
-
 //------------------delete_comments------------------//
 var delete_comments_route = router.route("/delete_comments/:comment_id");
 delete_comments_route.delete(function(req, res){
-  //delete all the children comments
-  Comment.find({parent_id: req.params.comment_id},function(err, data){
-    if(err){
-      res.send({message:err.name,data:[]});
-    }
-    else{
-      for(obj in data){
-        Comment.remove({_id: data[obj]._id});
-      }
-    }
-  });
   //delete itself
   Comment.remove({_id: req.params.comment_id},function(err, data){
     if(err){
