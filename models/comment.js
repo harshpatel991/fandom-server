@@ -1,7 +1,7 @@
 var mongoose = require('mongoose');
 
 // Define our beer schema
-var CommentSchema   = new mongoose.Schema(
+var CommentSchema   = new mongoose.Schema({
   text: String,
   episode_id: Number,
   parent_id: {type: String, default: "-1"},

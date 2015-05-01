@@ -3,7 +3,6 @@ var mongoose = require('mongoose');
 
 // Define our beer schema
 var EpisodeSchema   = new mongoose.Schema({
-  id: Number,
   air_date: Date,
   episode_number: Number,
   imdb_rating: Number,

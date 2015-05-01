@@ -155,6 +155,69 @@ delete_comments_route.delete(function(req, res){
   });
 });
 
+//------------------Get All Shows------------------//
+var showRoute = router.route('/shows');
+
+showRoute.get(function(req, res){
+  var query;
+  //Retrieve possible query strings
+  var select = eval( "(" + req.query.select + ")" );
+  var sort = eval( "(" + req.query.sort + ")" );
+  var skip = eval( "(" + req.query.skip + ")" );
+  var limit = eval( "(" + req.query.limit + ")" );
+  var count = eval( "(" + req.query.count + ")" );
+
+  query = Show.find();
+
+  if(sort)
+    query.sort(sort);
+
+  if(skip)
+    query.skip(skip);
+
+  if(limit)
+    query.limit(limit);
+
+  if(count)
+    query.count();
+
+  //Execute DB query
+  query.exec(function (err, shows) {
+    if(err)
+      res.status(500).send({message: "Error: Unable to retrieve Shows", data: []});
+    else
+      res.status(200).json({message: "Ok", data: shows});
+  });
+});
+
+//------------------Get Specific Show------------------//
+var specificShowRoute = router.route('/shows/:id');
+
+specificShowRoute.get(function(req, res){
+  console.log(req.params.id);
+  Show.findById(req.params.id, function (err, show) {
+    if(!show) {
+      res.status(404).send({message: "Error: Invalid ID, No Show Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: show});
+    }
+  });
+});
+
+//------------------Get Specific Season------------------//
+var specificSeasonRoute = router.route('/seasons/:id');
+
+specificSeasonRoute.get(function(req, res){
+  Season.findById(req.params.id, function (err, season) {
+    if(!season) {
+      res.status(404).send({message: "Error: Invalid ID, No Season Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: season});
+    }
+  });
+});
 
 // Start the server
 app.listen(port);

@@ -3,7 +3,6 @@ var mongoose = require('mongoose');
 
 // Define our beer schema
 var ShowSchema   = new mongoose.Schema({
-  id: Number,
   cast: [String],
   first_date: Date,
   genres: [String],
