@@ -205,7 +205,7 @@ specificShowRoute.get(function(req, res){
   });
 });
 
-//------------------Get Specific Season------------------//
+//------------------Get a Specific Season------------------//
 var specificSeasonRoute = router.route('/seasons/:id');
 
 specificSeasonRoute.get(function(req, res){
@@ -215,6 +215,20 @@ specificSeasonRoute.get(function(req, res){
     }
     else {
       res.status(200).json({message: "Ok", data: season});
+    }
+  });
+});
+
+//------------------Get a Specific Episode------------------//
+var specificEpisodeRotue = router.route('/episodes/:id');
+
+specificEpisodeRotue.get(function (req, res) {
+  Episode.findById(req.params.id, function (err, episode) {
+    if(!episode) {
+      res.status(404).send({message: "Error: Invalid ID, No Episode Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: episode});
     }
   });
 });
