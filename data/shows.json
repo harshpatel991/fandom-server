@@ -18,9 +18,9 @@
             "Fantasy",
             "Science Fiction"
         ],
-        "id": 1403,
-        "imdbId": "tt2364582",
-        "imdbRating": 7.9,
+        "_id": 1403,
+        "imdb_id": "tt2364582",
+        "imdb_rating": 7.9,
         "img_filename": "marvels_agents_of_shield.jpg",
         "keywords": [
             "marvel comics",
@@ -34,8 +34,8 @@
         "networks": [
             "American Broadcasting Company"
         ],
-        "numEps": 44,
-        "numSeasons": 2,
+        "num_eps": 44,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/n82soKV5XS5iYXF60eDO84kLPF3.jpg",
         "seasons": [
             3649,
@@ -62,9 +62,9 @@
             "Drama",
             "Action & Adventure"
         ],
-        "id": 10283,
-        "imdbId": "tt1486217",
-        "imdbRating": 8.6,
+        "_id": 10283,
+        "imdb_id": "tt1486217",
+        "imdb_rating": 8.6,
         "img_filename": "archer.jpg",
         "keywords": [
             "drugs",
@@ -76,8 +76,8 @@
         "networks": [
             "FX"
         ],
-        "numEps": 75,
-        "numSeasons": 6,
+        "num_eps": 75,
+        "num_seasons": 6,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/swCHJglRufH6rjmVYIXApRtCEPx.jpg",
         "seasons": [
             20316,
@@ -107,9 +107,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 4589,
-        "imdbId": "tt0367279",
-        "imdbRating": 8.6,
+        "_id": 4589,
+        "imdb_id": "tt0367279",
+        "imdb_rating": 8.6,
         "img_filename": "arrested_development.jpg",
         "keywords": [
             "voice over narration",
@@ -127,8 +127,8 @@
             "Fox Broadcasting Company",
             "Netflix"
         ],
-        "numEps": 68,
-        "numSeasons": 4,
+        "num_eps": 68,
+        "num_seasons": 4,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/jlzo7ICd8WAMPusnEx2rSy19REm.jpg",
         "seasons": [
             13938,
@@ -158,9 +158,9 @@
             "Mystery",
             "Science Fiction"
         ],
-        "id": 1412,
-        "imdbId": "tt2193021",
-        "imdbRating": 7.9,
+        "_id": 1412,
+        "imdb_id": "tt2193021",
+        "imdb_rating": 7.9,
         "img_filename": "arrow.jpg",
         "keywords": [
             "based on comic book",
@@ -174,8 +174,8 @@
         "networks": [
             "The CW"
         ],
-        "numEps": 69,
-        "numSeasons": 3,
+        "num_eps": 69,
+        "num_seasons": 3,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/mo0FP1GxOFZT4UDde7RFDz5APXF.jpg",
         "seasons": [
             3698,
@@ -200,9 +200,9 @@
             "Action & Adventure",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1429,
-        "imdbId": "tt2560140",
-        "imdbRating": 8.0,
+        "_id": 1429,
+        "imdb_id": "tt2560140",
+        "imdb_rating": 8.0,
         "img_filename": "attack_on_titan.jpg",
         "keywords": [
             "giant monster",
@@ -216,8 +216,8 @@
             "Mainichi Broadcasting System",
             "France 4"
         ],
-        "numEps": 25,
-        "numSeasons": 1,
+        "num_eps": 25,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/fBX1QMl4iZOKxuRuBOMnoHlmS4l.jpg",
         "seasons": [
             3789,
@@ -239,9 +239,9 @@
             "Mystery",
             "Action & Adventure"
         ],
-        "id": 2098,
-        "imdbId": "tt0103359",
-        "imdbRating": 8.5,
+        "_id": 2098,
+        "imdb_id": "tt0103359",
+        "imdb_rating": 8.5,
         "img_filename": "batman__the_animated_series.jpg",
         "keywords": [
             "super hero",
@@ -256,8 +256,8 @@
         "networks": [
             "Fox Broadcasting Company"
         ],
-        "numEps": 85,
-        "numSeasons": 4,
+        "num_eps": 85,
+        "num_seasons": 4,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/zC6GzvmAgYeZaHNOYxQOESZVeYK.jpg",
         "seasons": [
             6387,
@@ -288,9 +288,9 @@
             "Adventure",
             "Drama"
         ],
-        "id": 47665,
-        "imdbId": "tt2375692",
-        "imdbRating": 8.3,
+        "_id": 47665,
+        "imdb_id": "tt2375692",
+        "imdb_rating": 8.3,
         "img_filename": "black_sails.jpg",
         "keywords": [
             "gay love",
@@ -303,8 +303,8 @@
         "networks": [
             "Starz"
         ],
-        "numEps": 18,
-        "numSeasons": 2,
+        "num_eps": 18,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/7wOvUY09Zh5mYswfY1he4Qy3o5J.jpg",
         "seasons": [
             55146,
@@ -327,9 +327,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 18347,
-        "imdbId": "tt1439629",
-        "imdbRating": 7.8,
+        "_id": 18347,
+        "imdb_id": "tt1439629",
+        "imdb_rating": 7.8,
         "img_filename": "community.jpg",
         "keywords": [
             "community college"
@@ -340,8 +340,8 @@
             "NBC",
             "Yahoo! Screen"
         ],
-        "numEps": 104,
-        "numSeasons": 6,
+        "num_eps": 104,
+        "num_seasons": 6,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/rP6FNvCMEuzhZAgsUTIWcVv5n9d.jpg",
         "seasons": [
             29011,
@@ -371,9 +371,9 @@
             "Animation",
             "Science Fiction"
         ],
-        "id": 30991,
-        "imdbId": "tt0213338",
-        "imdbRating": 9.7,
+        "_id": 30991,
+        "imdb_id": "tt0213338",
+        "imdb_rating": 9.7,
         "img_filename": "cowboy_bebop.jpg",
         "keywords": [
             "seinen",
@@ -385,8 +385,8 @@
         "networks": [
             "TV Tokyo"
         ],
-        "numEps": 26,
-        "numSeasons": 1,
+        "num_eps": 26,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/tfwkOyY1jPioAKONcwcVatNVUO0.jpg",
         "seasons": [
             42588,
@@ -408,9 +408,9 @@
             "Action",
             "Science Fiction"
         ],
-        "id": 61889,
-        "imdbId": "tt3322312",
-        "imdbRating": 8.7,
+        "_id": 61889,
+        "imdb_id": "tt3322312",
+        "imdb_rating": 8.7,
         "img_filename": "marvels_daredevil.jpg",
         "keywords": [
             "marvel comic",
@@ -422,8 +422,8 @@
         "networks": [
             "Netflix"
         ],
-        "numEps": 12,
-        "numSeasons": 1,
+        "num_eps": 12,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/jxP4oHtcksDHHvWqMq9tW6TS7Lk.jpg",
         "seasons": [
             64558
@@ -437,9 +437,9 @@
             "Animation",
             "Thriller"
         ],
-        "id": 13916,
-        "imdbId": "tt0877057",
-        "imdbRating": 8.8,
+        "_id": 13916,
+        "imdb_id": "tt0877057",
+        "imdb_rating": 8.8,
         "img_filename": "death_note.jpg",
         "keywords": [
             "anime",
@@ -457,8 +457,8 @@
         "networks": [
             "Nippon Television"
         ],
-        "numEps": 37,
-        "numSeasons": 2,
+        "num_eps": 37,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/nhIkKuOpOXOE6ud0naCHTjRoOwq.jpg",
         "seasons": [
             59776,
@@ -489,9 +489,9 @@
             "Thriller",
             "Action & Adventure"
         ],
-        "id": 1405,
-        "imdbId": "tt0773262",
-        "imdbRating": 8.5,
+        "_id": 1405,
+        "imdb_id": "tt0773262",
+        "imdb_rating": 8.5,
         "img_filename": "dexter.jpg",
         "keywords": [
             "blood",
@@ -505,8 +505,8 @@
         "networks": [
             "Showtime"
         ],
-        "numEps": 96,
-        "numSeasons": 8,
+        "num_eps": 96,
+        "num_seasons": 8,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/sJKgQMVM92oMUo5Znwm5fvX4hIS.jpg",
         "seasons": [
             59533,
@@ -533,9 +533,9 @@
         "genres": [
             "Drama"
         ],
-        "id": 60622,
-        "imdbId": "tt2802850",
-        "imdbRating": 8.5,
+        "_id": 60622,
+        "imdb_id": "tt2802850",
+        "imdb_rating": 8.5,
         "img_filename": "fargo.jpg",
         "keywords": [
             "anthology"
@@ -545,8 +545,8 @@
         "networks": [
             "FX"
         ],
-        "numEps": 10,
-        "numSeasons": 2,
+        "num_eps": 10,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/r08vuxHlNIAQitDvSN8CeOtx8wD.jpg",
         "seasons": [
             60040,
@@ -571,9 +571,9 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1437,
-        "imdbId": "tt0303461",
-        "imdbRating": 8.8,
+        "_id": 1437,
+        "imdb_id": "tt0303461",
+        "imdb_rating": 8.8,
         "img_filename": "firefly.jpg",
         "keywords": [
             "space",
@@ -589,8 +589,8 @@
         "networks": [
             "Fox Broadcasting Company"
         ],
-        "numEps": 13,
-        "numSeasons": 1,
+        "num_eps": 13,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/mWNadwBZIx8NyEw4smGftYtHHrE.jpg",
         "seasons": [
             3847,
@@ -618,9 +618,9 @@
             "Comedy",
             "Drama"
         ],
-        "id": 2382,
-        "imdbId": "tt0193676",
-        "imdbRating": 8.4,
+        "_id": 2382,
+        "imdb_id": "tt0193676",
+        "imdb_rating": 8.4,
         "img_filename": "freaks_and_geeks.jpg",
         "keywords": [],
         "last_date": "2000-07-08",
@@ -628,8 +628,8 @@
         "networks": [
             "NBC"
         ],
-        "numEps": 18,
-        "numSeasons": 1,
+        "num_eps": 18,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/kKIEvGnCeIX1hTp63yWXQUkSKEA.jpg",
         "seasons": [
             7427,
@@ -650,9 +650,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 1668,
-        "imdbId": "tt0108778",
-        "imdbRating": 8.4,
+        "_id": 1668,
+        "imdb_id": "tt0108778",
+        "imdb_rating": 8.4,
         "img_filename": "friends.jpg",
         "keywords": [
             "new york",
@@ -668,8 +668,8 @@
         "networks": [
             "NBC"
         ],
-        "numEps": 236,
-        "numSeasons": 10,
+        "num_eps": 236,
+        "num_seasons": 10,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/qUjM7uCEqx7APUptBROcXVfhvF5.jpg",
         "seasons": [
             4583,
@@ -725,9 +725,9 @@
             "Drama",
             "Action & Adventure"
         ],
-        "id": 31911,
-        "imdbId": "tt1355642",
-        "imdbRating": 7.5,
+        "_id": 31911,
+        "imdb_id": "tt1355642",
+        "imdb_rating": 7.5,
         "img_filename": "fullmetal_alchemist__brotherhood.jpg",
         "keywords": [
             "political",
@@ -741,8 +741,8 @@
             "Animax",
             "Japan News Network"
         ],
-        "numEps": 64,
-        "numSeasons": 1,
+        "num_eps": 64,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/aYVBoq5MEtOBLlivSzDSpteZfXV.jpg",
         "seasons": [
             43387,
@@ -770,9 +770,9 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1399,
-        "imdbId": "tt0944947",
-        "imdbRating": 9.2,
+        "_id": 1399,
+        "imdb_id": "tt0944947",
+        "imdb_rating": 9.2,
         "img_filename": "game_of_thrones.jpg",
         "keywords": [
             "war",
@@ -787,8 +787,8 @@
         "networks": [
             "HBO"
         ],
-        "numEps": 47,
-        "numSeasons": 5,
+        "num_eps": 47,
+        "num_seasons": 5,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/jIhL6mlT7AblhbHJgEoiBIOUVl1.jpg",
         "seasons": [
             3627,
@@ -809,9 +809,9 @@
             "Mystery",
             "Sci-Fi & Fantasy"
         ],
-        "id": 40075,
-        "imdbId": "tt1865718",
-        "imdbRating": 8.9,
+        "_id": 40075,
+        "imdb_id": "tt1865718",
+        "imdb_rating": 8.9,
         "img_filename": "gravity_falls.jpg",
         "keywords": [
             "disney",
@@ -824,8 +824,8 @@
             "Disney XD",
             "Disney Channel"
         ],
-        "numEps": 31,
-        "numSeasons": 2,
+        "num_eps": 31,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/ozVc5SCarsVAouoc3eZNZtXFvGD.jpg",
         "seasons": [
             51168,
@@ -854,9 +854,9 @@
         "genres": [
             "Drama"
         ],
-        "id": 1416,
-        "imdbId": "tt0413573",
-        "imdbRating": 7.2,
+        "_id": 1416,
+        "imdb_id": "tt0413573",
+        "imdb_rating": 7.2,
         "img_filename": "greys_anatomy.jpg",
         "keywords": [
             "workplace",
@@ -873,8 +873,8 @@
         "networks": [
             "American Broadcasting Company"
         ],
-        "numEps": 240,
-        "numSeasons": 11,
+        "num_eps": 240,
+        "num_seasons": 11,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/gxTYvvlfQrnHfypFCn0OCUaWHks.jpg",
         "seasons": [
             3722,
@@ -914,9 +914,9 @@
             "Drama",
             "Mystery"
         ],
-        "id": 1408,
-        "imdbId": "tt0412142",
-        "imdbRating": 8.6,
+        "_id": 1408,
+        "imdb_id": "tt0412142",
+        "imdb_rating": 8.6,
         "img_filename": "house.jpg",
         "keywords": [
             "medical drama",
@@ -930,8 +930,8 @@
         "networks": [
             "Fox Broadcasting Company"
         ],
-        "numEps": 176,
-        "numSeasons": 8,
+        "num_eps": 176,
+        "num_seasons": 8,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/lxSzRZ49NXwsiyHuvMsd19QxduC.jpg",
         "seasons": [
             3682,
@@ -963,9 +963,9 @@
             "Drama",
             "Thriller"
         ],
-        "id": 1425,
-        "imdbId": "tt1856010",
-        "imdbRating": 8.6,
+        "_id": 1425,
+        "imdb_id": "tt1856010",
+        "imdb_rating": 8.6,
         "img_filename": "house_of_cards.jpg",
         "keywords": [
             "revenge",
@@ -978,8 +978,8 @@
         "networks": [
             "Netflix"
         ],
-        "numEps": 39,
-        "numSeasons": 3,
+        "num_eps": 39,
+        "num_seasons": 3,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/6AquMx9MoJZTaZIR2AokSDATFCt.jpg",
         "seasons": [
             3768,
@@ -998,9 +998,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 59186,
-        "imdbId": "tt2100976",
-        "imdbRating": 10.0,
+        "_id": 59186,
+        "imdb_id": "tt2100976",
+        "imdb_rating": 10.0,
         "img_filename": "impractical_jokers.jpg",
         "keywords": [
             "practical joker"
@@ -1010,8 +1010,8 @@
         "networks": [
             "truTV"
         ],
-        "numEps": 88,
-        "numSeasons": 4,
+        "num_eps": 88,
+        "num_seasons": 4,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/u6TQw5DvD7zkL3EETub514unndl.jpg",
         "seasons": [
             61128,
@@ -1034,9 +1034,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 2710,
-        "imdbId": "tt0472954",
-        "imdbRating": 7.5,
+        "_id": 2710,
+        "imdb_id": "tt0472954",
+        "imdb_rating": 7.5,
         "img_filename": "its_always_sunny_in_philadelphia.jpg",
         "keywords": [
             "slacker",
@@ -1058,8 +1058,8 @@
         "networks": [
             "FX"
         ],
-        "numEps": 114,
-        "numSeasons": 10,
+        "num_eps": 114,
+        "num_seasons": 10,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/zGmmUdRePZSfYxvGj9W6fsdzV2V.jpg",
         "seasons": [
             8795,
@@ -1085,9 +1085,9 @@
             "Comedy",
             "Talk"
         ],
-        "id": 60694,
-        "imdbId": "tt3530232",
-        "imdbRating": 8.8,
+        "_id": 60694,
+        "imdb_id": "tt3530232",
+        "imdb_rating": 8.8,
         "img_filename": "last_week_tonight_with_john_oliver.jpg",
         "keywords": [
             "current events",
@@ -1101,8 +1101,8 @@
         "networks": [
             "HBO"
         ],
-        "numEps": 33,
-        "numSeasons": 2,
+        "num_eps": 33,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/xo6mfa37ZdCGPCdsqJRVDBwxBlQ.jpg",
         "seasons": [
             60628,
@@ -1150,9 +1150,9 @@
         "genres": [
             "Drama"
         ],
-        "id": 1104,
-        "imdbId": "tt0804503",
-        "imdbRating": 8.0,
+        "_id": 1104,
+        "imdb_id": "tt0804503",
+        "imdb_rating": 8.0,
         "img_filename": "mad_men.jpg",
         "keywords": [
             "60s",
@@ -1168,8 +1168,8 @@
         "networks": [
             "AMC"
         ],
-        "numEps": 92,
-        "numSeasons": 7,
+        "num_eps": 92,
+        "num_seasons": 7,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/6R3PCqGzyTh12Lafhop0U0MNJDz.jpg",
         "seasons": [
             3564,
@@ -1192,9 +1192,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 849,
-        "imdbId": "tt0063929",
-        "imdbRating": 7.1,
+        "_id": 849,
+        "imdb_id": "tt0063929",
+        "imdb_rating": 7.1,
         "img_filename": "monty_pythons_flying_circus.jpg",
         "keywords": [],
         "last_date": "1974-12-05",
@@ -1202,8 +1202,8 @@
         "networks": [
             "BBC One"
         ],
-        "numEps": 45,
-        "numSeasons": 4,
+        "num_eps": 45,
+        "num_seasons": 4,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/gonIBiEjt58CDNxThVIAs3DUzF8.jpg",
         "seasons": [
             2511,
@@ -1232,9 +1232,9 @@
             "Fantasy",
             "Mystery"
         ],
-        "id": 39272,
-        "imdbId": "tt1843230",
-        "imdbRating": 7.8,
+        "_id": 39272,
+        "imdb_id": "tt1843230",
+        "imdb_rating": 7.8,
         "img_filename": "once_upon_a_time.jpg",
         "keywords": [
             "fairytale",
@@ -1247,8 +1247,8 @@
         "networks": [
             "American Broadcasting Company"
         ],
-        "numEps": 84,
-        "numSeasons": 4,
+        "num_eps": 84,
+        "num_seasons": 4,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/wBfEtXcnXtw5VJwChYU82CG6Att.jpg",
         "seasons": [
             50703,
@@ -1279,9 +1279,9 @@
         "genres": [
             "Drama"
         ],
-        "id": 3322,
-        "imdbId": "tt0118421",
-        "imdbRating": 7.4,
+        "_id": 3322,
+        "imdb_id": "tt0118421",
+        "imdb_rating": 7.4,
         "img_filename": "oz.jpg",
         "keywords": [
             "prison life",
@@ -1292,8 +1292,8 @@
         "networks": [
             "HBO"
         ],
-        "numEps": 56,
-        "numSeasons": 6,
+        "num_eps": 56,
+        "num_seasons": 6,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/eK7VZISZ69HtLtMqIk60qIkz8lJ.jpg",
         "seasons": [
             10308,
@@ -1321,9 +1321,9 @@
             "Drama",
             "Mystery"
         ],
-        "id": 31917,
-        "imdbId": "tt1578873",
-        "imdbRating": 7.0,
+        "_id": 31917,
+        "imdb_id": "tt1578873",
+        "imdb_rating": 7.0,
         "img_filename": "pretty_little_liars.jpg",
         "keywords": [],
         "last_date": "2015-01-20",
@@ -1331,8 +1331,8 @@
         "networks": [
             "ABC Family"
         ],
-        "numEps": 122,
-        "numSeasons": 5,
+        "num_eps": 122,
+        "num_seasons": 5,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/2rOLNdUPahiAq6VuoA1I6sA45cs.jpg",
         "seasons": [
             43395,
@@ -1350,9 +1350,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 1554,
-        "imdbId": "tt0380136",
-        "imdbRating": 9.0,
+        "_id": 1554,
+        "imdb_id": "tt0380136",
+        "imdb_rating": 9.0,
         "img_filename": "qi.jpg",
         "keywords": [],
         "last_date": "2015-02-06",
@@ -1361,8 +1361,8 @@
             "BBC Four",
             "BBC Two"
         ],
-        "numEps": 183,
-        "numSeasons": 12,
+        "num_eps": 183,
+        "num_seasons": 12,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/k0fu4ZRMufUy7aOFOAqaQWD8y43.jpg",
         "seasons": [
             4273,
@@ -1394,9 +1394,9 @@
             "Comedy",
             "Sci-Fi & Fantasy"
         ],
-        "id": 60625,
-        "imdbId": "tt2861424",
-        "imdbRating": 9.3,
+        "_id": 60625,
+        "imdb_id": "tt2861424",
+        "imdb_rating": 9.3,
         "img_filename": "rick_and_morty.jpg",
         "keywords": [],
         "last_date": "2014-04-14",
@@ -1404,8 +1404,8 @@
         "networks": [
             "Adult Swim"
         ],
-        "numEps": 11,
-        "numSeasons": 1,
+        "num_eps": 11,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/4LIf49No2uCJYJyaMykrVfXzIUn.jpg",
         "seasons": [
             60059
@@ -1439,9 +1439,9 @@
             "Drama",
             "Action & Adventure"
         ],
-        "id": 1891,
-        "imdbId": "tt0384766",
-        "imdbRating": 8.5,
+        "_id": 1891,
+        "imdb_id": "tt0384766",
+        "imdb_rating": 8.5,
         "img_filename": "rome.jpg",
         "keywords": [],
         "last_date": "2007-03-25",
@@ -1449,8 +1449,8 @@
         "networks": [
             "British Broadcasting Corporation"
         ],
-        "numEps": 22,
-        "numSeasons": 2,
+        "num_eps": 22,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/kfAxMhG0RVnOTWHoEzSc4JQzGMz.jpg",
         "seasons": [
             5426,
@@ -1479,9 +1479,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 1400,
-        "imdbId": "tt0098904",
-        "imdbRating": 8.3,
+        "_id": 1400,
+        "imdb_id": "tt0098904",
+        "imdb_rating": 8.3,
         "img_filename": "seinfeld.jpg",
         "keywords": [],
         "last_date": "1998-05-14",
@@ -1489,8 +1489,8 @@
         "networks": [
             "NBC"
         ],
-        "numEps": 181,
-        "numSeasons": 9,
+        "num_eps": 181,
+        "num_seasons": 9,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/w7VV1jdtwzEC0c71AjUUA4T65Az.jpg",
         "seasons": [
             3638,
@@ -1523,9 +1523,9 @@
             "Comedy",
             "Drama"
         ],
-        "id": 34307,
-        "imdbId": "tt1586680",
-        "imdbRating": 8.0,
+        "_id": 34307,
+        "imdb_id": "tt1586680",
+        "imdb_rating": 8.0,
         "img_filename": "shameless.jpg",
         "keywords": [
             "dysfunctional family",
@@ -1537,8 +1537,8 @@
         "networks": [
             "Showtime"
         ],
-        "numEps": 60,
-        "numSeasons": 5,
+        "num_eps": 60,
+        "num_seasons": 5,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/dSBYRw1R001azIUsaatQXZAOcXk.jpg",
         "seasons": [
             45139,
@@ -1563,9 +1563,9 @@
             "Mystery",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1622,
-        "imdbId": "tt0460681",
-        "imdbRating": 8.3,
+        "_id": 1622,
+        "imdb_id": "tt0460681",
+        "imdb_rating": 8.3,
         "img_filename": "supernatural.jpg",
         "keywords": [
             "vampires",
@@ -1582,8 +1582,8 @@
             "The WB Television Network",
             "The CW"
         ],
-        "numEps": 218,
-        "numSeasons": 10,
+        "num_eps": 218,
+        "num_seasons": 10,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/3iFm6Kz7iYoFaEcj4fLyZHAmTQA.jpg",
         "seasons": [
             6902,
@@ -1621,9 +1621,9 @@
             "Fantasy",
             "Science Fiction"
         ],
-        "id": 48866,
-        "imdbId": "tt2661044",
-        "imdbRating": 7.9,
+        "_id": 48866,
+        "imdb_id": "tt2661044",
+        "imdb_rating": 7.9,
         "img_filename": "the_100.jpg",
         "keywords": [
             "nuclear catastrophe",
@@ -1638,8 +1638,8 @@
         "networks": [
             "The CW"
         ],
-        "numEps": 29,
-        "numSeasons": 2,
+        "num_eps": 29,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/7y7jIVf2lkyds3tDfPfd9jTEqTm.jpg",
         "seasons": [
             55214,
@@ -1653,16 +1653,16 @@
         "genres": [
             "Comedy"
         ],
-        "id": 14188,
-        "imdbId": "tt1230180",
-        "imdbRating": 10.0,
+        "_id": 14188,
+        "imdb_id": "tt1230180",
+        "imdb_rating": 10.0,
         "img_filename": "the_angry_video_game_nerd.jpg",
         "keywords": [],
         "last_date": "2013-09-06",
         "name": "The Angry Video Game Nerd",
         "networks": [],
-        "numEps": 16,
-        "numSeasons": 6,
+        "num_eps": 16,
+        "num_seasons": 6,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/qNxv0d5q1eO1EzCnVFH4mHBj8MV.jpg",
         "seasons": [
             25502,
@@ -1690,9 +1690,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 1418,
-        "imdbId": "tt0898266",
-        "imdbRating": 8.3,
+        "_id": 1418,
+        "imdb_id": "tt0898266",
+        "imdb_rating": 8.3,
         "img_filename": "the_big_bang_theory.jpg",
         "keywords": [
             "science",
@@ -1705,8 +1705,8 @@
         "networks": [
             "CBS"
         ],
-        "numEps": 183,
-        "numSeasons": 8,
+        "num_eps": 183,
+        "num_seasons": 8,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/1KK6ySkh8fijcjUIBksZhgdJrAX.jpg",
         "seasons": [
             3732,
@@ -1736,9 +1736,9 @@
             "Drama",
             "Mystery"
         ],
-        "id": 46952,
-        "imdbId": "tt2741602",
-        "imdbRating": 7.5,
+        "_id": 46952,
+        "imdb_id": "tt2741602",
+        "imdb_rating": 7.5,
         "img_filename": "the_blacklist.jpg",
         "keywords": [
             "fbi profiler",
@@ -1752,8 +1752,8 @@
         "networks": [
             "NBC"
         ],
-        "numEps": 42,
-        "numSeasons": 2,
+        "num_eps": 42,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/gQLvz6eJbRB9qFj0mUcF5IaKAXw.jpg",
         "seasons": [
             55083,
@@ -1781,9 +1781,9 @@
             "Drama",
             "Science Fiction"
         ],
-        "id": 60735,
-        "imdbId": "tt3107288",
-        "imdbRating": 8.7,
+        "_id": 60735,
+        "imdb_id": "tt3107288",
+        "imdb_rating": 8.7,
         "img_filename": "the_flash.jpg",
         "keywords": [
             "masked superhero",
@@ -1798,8 +1798,8 @@
         "networks": [
             "The CW"
         ],
-        "numEps": 22,
-        "numSeasons": 1,
+        "num_eps": 22,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/9ZuWc3wWPDvWWterM0DlQxjhCBR.jpg",
         "seasons": [
             60523
@@ -1819,9 +1819,9 @@
             "Comedy",
             "Sci-Fi & Fantasy"
         ],
-        "id": 61888,
-        "imdbId": "tt3230454",
-        "imdbRating": 5.1,
+        "_id": 61888,
+        "imdb_id": "tt3230454",
+        "imdb_rating": 5.1,
         "img_filename": "the_last_man_on_earth.jpg",
         "keywords": [],
         "last_date": "2015-05-03",
@@ -1829,8 +1829,8 @@
         "networks": [
             "Fox"
         ],
-        "numEps": 12,
-        "numSeasons": 1,
+        "num_eps": 12,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/iSXNhNnFicWIMm1JLdkhsjKkKnY.jpg",
         "seasons": [
             64557
@@ -1856,9 +1856,9 @@
             "Romance",
             "Sci-Fi & Fantasy"
         ],
-        "id": 18165,
-        "imdbId": "tt1405406",
-        "imdbRating": 7.8,
+        "_id": 18165,
+        "imdb_id": "tt1405406",
+        "imdb_rating": 7.8,
         "img_filename": "the_vampire_diaries.jpg",
         "keywords": [
             "supernatural",
@@ -1876,8 +1876,8 @@
         "networks": [
             "The CW"
         ],
-        "numEps": 132,
-        "numSeasons": 6,
+        "num_eps": 132,
+        "num_seasons": 6,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/jZn7dEHRRjXcT43D9GMHxzASDef.jpg",
         "seasons": [
             28881,
@@ -1915,9 +1915,9 @@
             "Horror",
             "Thriller"
         ],
-        "id": 1402,
-        "imdbId": "tt1520211",
-        "imdbRating": 8.1,
+        "_id": 1402,
+        "imdb_id": "tt1520211",
+        "imdb_rating": 8.1,
         "img_filename": "the_walking_dead.jpg",
         "keywords": [
             "post-apocalypse",
@@ -1931,8 +1931,8 @@
         "networks": [
             "AMC"
         ],
-        "numEps": 67,
-        "numSeasons": 5,
+        "num_eps": 67,
+        "num_seasons": 5,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/vxuoMW6YBt6UsxvMfRNwRl9LtWS.jpg",
         "seasons": [
             3646,
@@ -1952,9 +1952,9 @@
         "genres": [
             "Documentary"
         ],
-        "id": 32900,
-        "imdbId": "tt1513168",
-        "imdbRating": 10.0,
+        "_id": 32900,
+        "imdb_id": "tt1513168",
+        "imdb_rating": 10.0,
         "img_filename": "through_the_wormhole.jpg",
         "keywords": [],
         "last_date": "2014-07-23",
@@ -1962,8 +1962,8 @@
         "networks": [
             "Discovery Science"
         ],
-        "numEps": 48,
-        "numSeasons": 5,
+        "num_eps": 48,
+        "num_seasons": 5,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/yzlGw8yFbVwoHS52g8C0DFYDak9.jpg",
         "seasons": [
             44147,
@@ -1982,9 +1982,9 @@
             "Drama",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1918,
-        "imdbId": "",
-        "imdbRating": 8.0,
+        "_id": 1918,
+        "imdb_id": "",
+        "imdb_rating": 8.0,
         "img_filename": "the_twilight_zone.jpg",
         "keywords": [
             "anthology"
@@ -1994,8 +1994,8 @@
         "networks": [
             "CBS"
         ],
-        "numEps": 114,
-        "numSeasons": 3,
+        "num_eps": 114,
+        "num_seasons": 3,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/gPbXTcnyisKxHi4Owkzi1IEjoHg.jpg",
         "seasons": [
             5553,
@@ -2038,9 +2038,9 @@
             "Mystery",
             "Sci-Fi & Fantasy"
         ],
-        "id": 1920,
-        "imdbId": "tt0098936",
-        "imdbRating": 8.4,
+        "_id": 1920,
+        "imdb_id": "tt0098936",
+        "imdb_rating": 8.4,
         "img_filename": "twin_peaks.jpg",
         "keywords": [
             "supernatural",
@@ -2052,8 +2052,8 @@
         "networks": [
             "American Broadcasting Company"
         ],
-        "numEps": 30,
-        "numSeasons": 2,
+        "num_eps": 30,
+        "num_seasons": 2,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/xdu1XgypIIaIooeWDTwzyw8HOR8.jpg",
         "seasons": [
             5558,
@@ -2077,9 +2077,9 @@
         "genres": [
             "Comedy"
         ],
-        "id": 61671,
-        "imdbId": "tt3339966",
-        "imdbRating": 8.2,
+        "_id": 61671,
+        "imdb_id": "tt3339966",
+        "imdb_rating": 8.2,
         "img_filename": "unbreakable_kimmy_schmidt.jpg",
         "keywords": [
             "nanny",
@@ -2091,8 +2091,8 @@
         "networks": [
             "Netflix"
         ],
-        "numEps": 12,
-        "numSeasons": 1,
+        "num_eps": 12,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/4akvTO13ZXUvoAEHccObDURPjEa.jpg",
         "seasons": [
             63619
@@ -2113,9 +2113,9 @@
             "Comedy",
             "Family"
         ],
-        "id": 61915,
-        "imdbId": "tt3598030",
-        "imdbRating": 0.0,
+        "_id": 61915,
+        "imdb_id": "tt3598030",
+        "imdb_rating": 0.0,
         "img_filename": "kc_undercover.jpg",
         "keywords": [
             "family",
@@ -2129,8 +2129,8 @@
         "networks": [
             "Disney Channel"
         ],
-        "numEps": 9,
-        "numSeasons": 1,
+        "num_eps": 9,
+        "num_seasons": 1,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/9hzH2OPUSiBmnttRq2IadM970u9.jpg",
         "seasons": [
             64635
@@ -2154,9 +2154,9 @@
             "Drama",
             "History"
         ],
-        "id": 44217,
-        "imdbId": "tt2306299",
-        "imdbRating": 9.0,
+        "_id": 44217,
+        "imdb_id": "tt2306299",
+        "imdb_rating": 9.0,
         "img_filename": "vikings.jpg",
         "keywords": [
             "warriors",
@@ -2170,8 +2170,8 @@
         "networks": [
             "History"
         ],
-        "numEps": 29,
-        "numSeasons": 3,
+        "num_eps": 29,
+        "num_seasons": 3,
         "remote_img_url": "http://image.tmdb.org/t/p/w500/mBDlsOhNOV1MkNii81aT14EYQ4S.jpg",
         "seasons": [
             53335,
