@@ -5,7 +5,10 @@ var userSchema = mongoose.Schema({
     local: {
         email		: String,
         password	: String
-    }
+    },
+    favorites: [Number],
+    comments_upvoted: [Number],
+    comments_downvoted: [Number]
 });
 
 userSchema.methods.generateHash = function(password) {

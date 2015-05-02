@@ -6,6 +6,7 @@ var Show = require('./models/show');
 var Comment = require('./models/comment');
 var Season = require('./models/season');
 var Episode = require('./models/episode');
+var User = require('./models/user');
 var bodyParser = require('body-parser');
 var cookieParser = require('cookie-parser');
 var session = require('express-session');
@@ -82,6 +83,36 @@ function isLoggedIn(req, res, next) {
   });
 }
 
+//------------------Get all Users------------------//
+var usersRoute = router.route('/users');
+usersRoute.get(function (req, res) {
+  User.find().exec(function (err, users) {
+    if(!users) {
+      res.status(404).send({message: "Error: No Users Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: users});
+    }
+  });
+});
+
+//------------------Get a Users Comments------------------//
+var usersCommentsRoutes = router.route('/user_comments/:id');
+
+usersCommentsRoutes.get(function(req, res){
+  User.findById(req.params.id, function (err, user) {
+    if(!user) {
+      res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
+    }
+    else {
+      //Creates an object that will contain the upvoted and downvoted comments to return
+      var comments = {};
+      comments.upvoted = user.comments_upvoted;
+      comments.downvoted = user.comments_downvoted;
+      res.status(200).json({message: "Ok", data: comments});
+    }
+  });
+});
 
 //------------------show_comments------------------//
 var show_comments_route = router.route('/show_comments/:ep_id');
@@ -167,7 +198,11 @@ showRoute.get(function(req, res){
   var limit = eval( "(" + req.query.limit + ")" );
   var count = eval( "(" + req.query.count + ")" );
 
+
   query = Show.find();
+
+  if(select)
+    query.select(select);
 
   if(sort)
     query.sort(sort);
@@ -232,6 +267,7 @@ specificEpisodeRotue.get(function (req, res) {
     }
   });
 });
+
 
 // Start the server
 app.listen(port);
