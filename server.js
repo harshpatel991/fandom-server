@@ -122,12 +122,33 @@ usersRoute.get(function (req, res) {
 
 //------------------Get a Specific User------------------//
 var specificUsersRoute = router.route('/users/:id');
+
 specificUsersRoute.get(function (req, res) {
   User.findById(req.params.id, function (err, user) {
     if(!user)
       res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
     else
       res.status(200).json({message: "Ok", data: user});
+  });
+});
+
+//TODO: Add Comments Arrays
+specificUsersRoute.put(function (req, res) {
+  var userID = req.params.id;
+  var favoriteArray = req.body.favorites;
+  User.findById(userID, function (err, user) {
+    if(!user)
+      res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
+    else {
+      //Update user
+      user.favorites = favoriteArray;
+      user.save(function (err) {
+        if(err)
+          res.status(500).send({message: "Error: Database unable to update user", data: []});
+        else
+          res.status(200).json({message: "User updated", data: user});
+      });
+    }
   });
 });
 
