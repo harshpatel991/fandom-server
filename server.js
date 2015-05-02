@@ -62,7 +62,7 @@ app.post('/api/login', passport.authenticate('local-login'), function(req, res) 
 });
 
 app.get('/api/profile', isLoggedIn, function(req, res) {
-  res.json({
+  res.status(200).json({
     user: req.user
   });
 });
@@ -78,7 +78,7 @@ function isLoggedIn(req, res, next) {
   if(req.isAuthenticated())
     return next();
 
-  res.json({
+  res.status(403).json({
     error: "User not logged in"
   });
 }

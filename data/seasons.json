@@ -5,10 +5,10 @@
         63424,
         1005656
     ],
-    "id": 3649,
+    "_id": 3649,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1403,
+    "show_id": 1403,
     "summary": ""
 },
 {
@@ -37,10 +37,10 @@
         975266,
         975473
     ],
-    "id": 3648,
+    "_id": 3648,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1403,
+    "show_id": 1403,
     "summary": ""
 },
 {
@@ -69,10 +69,10 @@
         1051256,
         1051257
     ],
-    "id": 62022,
+    "_id": 62022,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1403,
+    "show_id": 1403,
     "summary": "In the second season, Coulson and his team look to restore trust from the government and public following S.H.I.E.L.D.'s collapse. "
 },
 {
@@ -83,10 +83,10 @@
         1020826,
         1020825
     ],
-    "id": 20316,
+    "_id": 20316,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -103,10 +103,10 @@
         422212,
         422213
     ],
-    "id": 20314,
+    "_id": 20314,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -126,10 +126,10 @@
         422238,
         422239
     ],
-    "id": 20315,
+    "_id": 20315,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -149,10 +149,10 @@
         422253,
         422254
     ],
-    "id": 20317,
+    "_id": 20317,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": "It was announced on March 29, 2011 that Archer was renewed for 16 more episodes. FX had originally intended the first three episodes of Season 3 to air in the fall of 2011 as a \"Special Assignment\" three-part event, with a further 13 episodes (a normal sized season for most FX shows) to air at the beginning of 2012. Series creator Adam Reed later clarified the situation. He explained that while FX had intended the second set of episodes to be 13 episodes, he had believed that he was only going to be producing a further 10 episodes (with the first three episodes completing the standard order of 13 episodes). While he attempted to produce the full 16 episodes after he realized his error, it soon became clear that it would be impossible to produce three additional episodes. The order was eventually reduced to 13 episodes."
 },
 {
@@ -172,10 +172,10 @@
         422261,
         422264
     ],
-    "id": 20312,
+    "_id": 20312,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -195,10 +195,10 @@
         973561,
         973957
     ],
-    "id": 20313,
+    "_id": 20313,
     "name": "Season 5: Vice",
     "season_number": 5,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -218,10 +218,10 @@
         1044109,
         1044842
     ],
-    "id": 63509,
+    "_id": 63509,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 10283,
+    "show_id": 10283,
     "summary": ""
 },
 {
@@ -251,10 +251,10 @@
         331624,
         331701
     ],
-    "id": 13938,
+    "_id": 13938,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 4589,
+    "show_id": 4589,
     "summary": ""
 },
 {
@@ -283,10 +283,10 @@
         331667,
         331668
     ],
-    "id": 13935,
+    "_id": 13935,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 4589,
+    "show_id": 4589,
     "summary": "The first season of the television comedy series Arrested Development aired between November 2, 2003 and June 6, 2004, on Fox in the United States. It consisted of 22 episodes, each running approximately 22 minutes in length. The first season was released on DVD in region 1 on October 19, 2004, in region 2 on March 21, 2005 and in region 4 on February 23, 2005.\n\nThe show's storyline centers on the Bluth family, a formerly wealthy, habitually dysfunctional family and is presented in a continuous format, incorporating hand-held camera work, narration, archival photos, and historical footage."
 },
 {
@@ -311,10 +311,10 @@
         331685,
         331686
     ],
-    "id": 13936,
+    "_id": 13936,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 4589,
+    "show_id": 4589,
     "summary": "The second season of the television comedy series Arrested Development aired between November 7, 2004 and April 17, 2005, on Fox in the United States. It consisted of 18 episodes, each running approximately 22 minutes in length. The second season was released on DVD in region 1 on October 11, 2005, in region 2 on January 23, 2006 and in region 4 on March 15, 2006.\n\nThe show's storyline centers on the Bluth family, a formerly wealthy, habitually dysfunctional family and is presented in a continuous format, incorporating hand-held camera work, narration, archival photos, and historical footage."
 },
 {
@@ -334,10 +334,10 @@
         331698,
         331699
     ],
-    "id": 13937,
+    "_id": 13937,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 4589,
+    "show_id": 4589,
     "summary": "The third season of the television comedy series Arrested Development aired between September 19, 2005 and February 10, 2006, on Fox in the United States. It consisted of 13 episodes, each running approximately 22 minutes in length. The third season was released on DVD in region 1 on August 29, 2006, in region 2 on April 23, 2007 and in region 4 on December 6, 2006.\n\nThe show's storyline centers on the Bluth family, a formerly wealthy, habitually dysfunctional family and is presented in a continuous format, incorporating hand-held camera work, narration, archival photos, and historical footage."
 },
 {
@@ -359,10 +359,10 @@
         331629,
         331713
     ],
-    "id": 13939,
+    "_id": 13939,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 4589,
+    "show_id": 4589,
     "summary": "The fourth season of the television comedy series Arrested Development premiered on Netflix on May 26, 2013 and consists of 15 episodes. This season serves as a revival to the series after it was canceled by Fox in 2006.\n\nThe show's storyline centers on the Bluth family, a formerly wealthy, habitually dysfunctional family, and the show incorporates hand-held camera work, narration, archival photos, and historical footage.\n\nEach episode of the season occurs over approximately the same stretch of time, but focuses on a different character. Information on events depicted in a given episode is often partial and filled in by later episodes."
 },
 {
@@ -370,10 +370,10 @@
     "episodes": [
         64134
     ],
-    "id": 3698,
+    "_id": 3698,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1412,
+    "show_id": 1412,
     "summary": "Contains special episodes. So far, only one such episode 'Year One' has aired. "
 },
 {
@@ -403,10 +403,10 @@
         64132,
         64133
     ],
-    "id": 3697,
+    "_id": 3697,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1412,
+    "show_id": 1412,
     "summary": "Oliver Queen returns to Starling city after being deserted on a hellish island for five years. He decides to become a mask wearing vigilante to fulfil his father's wishes and rid the city of crime. In his journey to do so, he is forced to make tough decisions even as he makes new friends and even more enemies which continue question his lethal ways of controlling crime."
 },
 {
@@ -436,10 +436,10 @@
         974440,
         974441
     ],
-    "id": 3699,
+    "_id": 3699,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1412,
+    "show_id": 1412,
     "summary": "At the end of Season 1, Starling city suffered a huge loss and so did Oliver Queen. Learning from his mistakes, Oliver decides to change his methods even while honouring his promises to his friend. Meanwhile a new enemy from his past resurfaces to make life difficult for Oliver. "
 },
 {
@@ -469,10 +469,10 @@
         1051238,
         1051240
     ],
-    "id": 62018,
+    "_id": 62018,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1412,
+    "show_id": 1412,
     "summary": "Having achieved true hero status - Oliver Queen faces new challenges with a foe who has come back from the dead. This time, he has help in the form a new hero/side kick and a lot of familiar faces. There is also a new player - Ray Palmer (future atom) - in the mix, who has a new vision for turning Starling City into Star City."
 },
 {
@@ -496,10 +496,10 @@
         1029395,
         1029396
     ],
-    "id": 3789,
+    "_id": 3789,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1429,
+    "show_id": 1429,
     "summary": ""
 },
 {
@@ -531,10 +531,10 @@
         65483,
         65497
     ],
-    "id": 3788,
+    "_id": 3788,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1429,
+    "show_id": 1429,
     "summary": ""
 },
 {
@@ -542,10 +542,10 @@
     "episodes": [
         146511
     ],
-    "id": 6387,
+    "_id": 6387,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 2098,
+    "show_id": 2098,
     "summary": ""
 },
 {
@@ -612,10 +612,10 @@
         1029145,
         1029144
     ],
-    "id": 6383,
+    "_id": 6383,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 2098,
+    "show_id": 2098,
     "summary": ""
 },
 {
@@ -632,10 +632,10 @@
         1029141,
         1029142
     ],
-    "id": 6384,
+    "_id": 6384,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 2098,
+    "show_id": 2098,
     "summary": "The second season of Batman: TAS was titled The Adventures of Batman & Robin and initially aired in May 1994 to September 1995."
 },
 {
@@ -652,10 +652,10 @@
         1044561,
         1044562
     ],
-    "id": 6385,
+    "_id": 6385,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 2098,
+    "show_id": 2098,
     "summary": ""
 },
 {
@@ -667,10 +667,10 @@
         1044566,
         1044567
     ],
-    "id": 6386,
+    "_id": 6386,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 2098,
+    "show_id": 2098,
     "summary": ""
 },
 {
@@ -685,10 +685,10 @@
         914898,
         914905
     ],
-    "id": 55146,
+    "_id": 55146,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 47665,
+    "show_id": 47665,
     "summary": "1715: The Golden Age of Piracy. New Providence Island is a lawless territory, controlled by history\u2019s most notorious pirate captains. The most feared is Captain Flint. \n\nAs the British Navy returns to redeem their land and exterminate Flint and his crew, another side of him emerges. Captain Flint aligns himself with Eleanor Guthrie, daughter of the local kingpin, to hunt the ultimate prize and ensure their survival. \n\nMany opponents stand in their way: rival captains, jealous of Flint's power; Eleanor's ambitious and intrusive father; and a young sailor recently recruited onto Flint's crew, John Silver, who constantly undermines his captain\u2019s agenda."
 },
 {
@@ -705,10 +705,10 @@
         1039537,
         1039538
     ],
-    "id": 63281,
+    "_id": 63281,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 47665,
+    "show_id": 47665,
     "summary": "Season two begins where we left off\u2014The Walrus crew is stranded, with an army of Spanish soldiers standing between them and the precious Urca gold. And with their crimes against their brethren no longer a secret, Flint and Silver must join forces in a desperate bid for survival. \n\nMeanwhile, Eleanor Guthrie struggles to maintain her grip on Nassau, as a new breed of pirate arrives in the form of Ned Low, a man for whom violence isn't just a tool \u2026 it\u2019s a pastime. As blood is spilled, and tensions mount, Charles Vane must decide which he values more: Eleanor\u2019s life, or the respect of his men. \n\nAnd unbeknownst to all of them, a prize of immeasurable value has already been smuggled onto the island \u2026 one whose discovery will alter the very landscape of their world, and force everyone in Nassau toward the ultimate judgment: are they men, or are they monsters?"
 },
 {
@@ -727,10 +727,10 @@
         563827,
         563826
     ],
-    "id": 29011,
+    "_id": 29011,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": ""
 },
 {
@@ -762,10 +762,10 @@
         563791,
         563789
     ],
-    "id": 29009,
+    "_id": 29009,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": "The first season of the television comedy series Community originally aired from September 17, 2009 on NBC to May 20, 2010 in the United States. The first three episodes aired at 9:30 pm ET before being moved to 8:00 pm ET. The show was picked up for 22 episodes in October 2009, and an additional 3 episodes were ordered later.\n\nThe show focuses on disbarred lawyer Jeff Winger, and his attempt to get a bachelor's degree at a community college. He forms a study group in which they study Spanish."
 },
 {
@@ -796,10 +796,10 @@
         563812,
         563813
     ],
-    "id": 29010,
+    "_id": 29010,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": "The second season of the television comedy series Community premiered on September 23, 2010 and concluded on May 12, 2011, on NBC. The season consists of 24 episodes and aired on Thursdays at 8:00 pm ET as part of Comedy Night Done Right."
 },
 {
@@ -828,10 +828,10 @@
         563848,
         563849
     ],
-    "id": 29012,
+    "_id": 29012,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": "The third season of the television comedy series Community premiered on September 22, 2011 and concluded on May 17, 2012 on NBC. The season consists of 22 episodes and aired on Thursdays at 8:00 pm ET as part of the network's \"Comedy Night Done Right\" programming block."
 },
 {
@@ -851,10 +851,10 @@
         563861,
         563862
     ],
-    "id": 29013,
+    "_id": 29013,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": "The fourth season of the television comedy series Community premiered on February 7, 2013 and concluded on May 9, 2013. The season consists of 13 episodes and aired on NBC on Thursdays at 8:00 pm ET as part of the network's \"Comedy Night Done Right\" programming block."
 },
 {
@@ -874,10 +874,10 @@
         973781,
         973958
     ],
-    "id": 29014,
+    "_id": 29014,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": "The fifth season of the television comedy series Community is scheduled to debut midseason during the 2013\u201314 television season on NBC. The season will contain 13 episodes, and features the return of series creator Dan Harmon as showrunner."
 },
 {
@@ -891,10 +891,10 @@
         1051221,
         1053662
     ],
-    "id": 65085,
+    "_id": 65085,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 18347,
+    "show_id": 18347,
     "summary": ""
 },
 {
@@ -905,10 +905,10 @@
         750975,
         750976
     ],
-    "id": 42588,
+    "_id": 42588,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 30991,
+    "show_id": 30991,
     "summary": ""
 },
 {
@@ -941,10 +941,10 @@
         750967,
         750972
     ],
-    "id": 42587,
+    "_id": 42587,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 30991,
+    "show_id": 30991,
     "summary": ""
 },
 {
@@ -964,10 +964,10 @@
         1036360,
         1036361
     ],
-    "id": 64558,
+    "_id": 64558,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 61889,
+    "show_id": 61889,
     "summary": ""
 },
 {
@@ -993,10 +993,10 @@
         998600,
         998601
     ],
-    "id": 59776,
+    "_id": 59776,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 13916,
+    "show_id": 13916,
     "summary": ""
 },
 {
@@ -1021,10 +1021,10 @@
         1043637,
         1043638
     ],
-    "id": 65108,
+    "_id": 65108,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 13916,
+    "show_id": 13916,
     "summary": ""
 },
 {
@@ -1060,10 +1060,10 @@
         953296,
         953295
     ],
-    "id": 59533,
+    "_id": 59533,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": ""
 },
 {
@@ -1082,10 +1082,10 @@
         953093,
         953094
     ],
-    "id": 59499,
+    "_id": 59499,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The first season of Dexter is an adaptation of Jeff Lindsay's first novel in the Dexter series, Darkly Dreaming Dexter. Subsequent seasons have featured original storylines. This season aired from October 1, 2006 to December 17, 2006, and follows Dexter's investigation of \"The Ice Truck Killer\". Introduced in the first episode, \"Dexter\", this serial killer targets prostitutes and leaves their bodies severed and bloodless. At the same time, Dexter's foster sister, Debra Morgan, a vice squad officer, aspires to work in the homicide department, and Dexter's girlfriend, Rita Bennett, wants their relationship to be more intimate. Christian Camargo appears as Rudy Cooper and is a recurring character until the end of the season.\n\nThe show's first season received generally favorable reviews from critics; it was praised as \"bold, different and exciting, with a central character and performance that take your breath away\" by the New York Daily News. The Wall Street Journal saw \"the grotesqueries of Dexter\" as \"not something that can easily be dismissed with the old \"you don't have to watch\" line\", and concluded that \"We do have to live among the viewers who will be desensitized, or aroused, by this show\". The aggregate site Metacritic scored the show's first season at 77 out of 100 based on 27 critics reviews."
 },
 {
@@ -1104,10 +1104,10 @@
         953232,
         953233
     ],
-    "id": 59500,
+    "_id": 59500,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The second season of Dexter premiered on September 30, 2007, and ended on December 16, 2007. \"It's Alive\", the season premiere, attracted 1.09 million viewers in the United States, making Dexter the first Showtime series to attract more than a million viewers with a season premiere. The season finale, \"The British Invasion\", attracted 1.4 million viewers, making it the program's most-watched episode until the airing of the season three finale, \"Do You Take Dexter Morgan?\". Including digital video recorder usage, season two was watched by an average of 2.4 million viewers on a weekly basis through 11 full weeks, outperforming season one by 21%. The season received universal acclaim from critics, and was praised as \"one of the best shows on TV this decade\" by the Chicago Sun-Times, while Variety considers Hall's portrayal of the title character as a \"towering achievement, one that eclipses the show's other shortcomings and rough patches\"; the aggregate site Metacritic scored the season at 85 out of 100 based on 11 reviews.\n\nIn the season, the bodies of Dexter's victims are uncovered and an investigation is launched in Dexter's own department to find the killer, dubbed the \"Bay Harbor Butcher\". During this time, Debra struggles to recover after surviving Ice Truck Killer's attempts to murder her, and Rita sends Dexter to Narcotics Anonymous meetings when she suspects that he has an addiction. Sergeant James Doakes, stalks Dexter, suspecting that he is connected with the \"Ice Truck Killer\" killings. Three new characters are introduced: Keith Carradine appears as Special Agent Frank Lundy, an FBI agent who heads the \"Bay Harbor Butcher\" investigation, JoBeth Williams as Rita's mother Gail, and Jaime Murray as Lila Tournay, Dexter's Narcotics Anonymous sponsor."
 },
 {
@@ -1126,10 +1126,10 @@
         953242,
         953302
     ],
-    "id": 59502,
+    "_id": 59502,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The third season of Dexter premiered on September 28, 2008, and ended on December 14, 2008. \"Our Father\", the season premiere, attracted 1.22 million viewers in the United States, making it Showtime's highest-rated drama season premiere since Nielsen Media Research began compiling ratings in 2004. The season's finale, \"Do You Take Dexter Morgan?\" attracted 1.5 million viewers. Season three was watched by an average of 1.1 million viewers a week. It received largely positive reviews from critics, which ranged from being praised as \"truly and incredibly exciting television\" in the San Francisco Chronicle, to \"lack[ing] the crackling tension the drama had supplied in previous years\" by the Chicago Tribune; the aggregate site Metacritic scored the season at 78 out of 100 based on 13 reviews. Smits and Hall received Emmy nominations for their roles as Miguel Prado and Dexter Morgan respectively, while the show as a whole also received a Best Drama Emmy nomination.\n\nIn this season, Dexter kills a man in self-defense and initiates a friendship with the man's brother, Assistant District Attorney Miguel Prado. In the meantime, Rita discovers that she is pregnant, and Debra investigates the murders of a new serial killer, called \"The Skinner\", hoping to gain a promotion to detective. In addition to Smits, Dexter's third season introduces two recurring characters: Desmond Harrington as Det. Joey Quinn, who becomes Debra's partner when he is transferred from the narcotics department to homicide, and Anne Ramsay as Ellen Wolf, a defense attorney whom Miguel detests."
 },
 {
@@ -1148,10 +1148,10 @@
         953249,
         953250
     ],
-    "id": 59504,
+    "_id": 59504,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "On October 21, 2008, Showtime commissioned a fourth and fifth season of Dexter, each consisting of 12 episodes. The show's writers convened during February and March 2009 to brainstorm ideas for the fourth season, and filming was scheduled to begin in June 2009. On May 27, 2009, Showtime announced that John Lithgow would guest star in all 12 episodes as Miami's latest and deadliest serial killer, and Keith Carradine would return as Lundy. The fourth season premiered on September 27, 2009, and focused on Dexter attempting to find his way to balance his family life, the birth of his son, and his \"extra-curricular\" activities. The season received positive reviews before airing, including one from Michael Ausiello of Entertainment Weekly, who saw the fourth season as being \"bloody promising\". The season opener was leaked to the Internet ahead of schedule in late August 2009. The fourth season premiered in the UK on the FX channel on August 20, 2010."
 },
 {
@@ -1170,10 +1170,10 @@
         953255,
         953256
     ],
-    "id": 59506,
+    "_id": 59506,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The fifth season of Dexter premiered on September 26, 2010, and consisted of 12 episodes. The season focuses on how Dexter comes to terms with the aftermath of the Season 4 finale, stopping a group of serial rapists and avoiding a corrupt cop who learns his deadly secret."
 },
 {
@@ -1192,10 +1192,10 @@
         953265,
         953315
     ],
-    "id": 59509,
+    "_id": 59509,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The sixth season of Dexter premiered on October 2, 2011 on the television cable network Showtime, and consisted of 12 episodes. The season follows Dexter's and Miami Metro's investigations into a string of bizarre ritualistic killings featuring overtly religious apocalyptic symbolism. On November 18, 2011, it was announced that Dexter had been renewed for two more seasons."
 },
 {
@@ -1214,10 +1214,10 @@
         953274,
         953275
     ],
-    "id": 59510,
+    "_id": 59510,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The seventh season of Dexter premiered on September 30, 2012. The season follows Dexter's tangles with a Ukrainian mob boss and introduces the character Hannah McKay, a mysterious widow with a green thumb and a checkered past. The season seven story arc is continued over the course of the eighth season, which premiered on June 30, 2013."
 },
 {
@@ -1236,10 +1236,10 @@
         953284,
         953321
     ],
-    "id": 59512,
+    "_id": 59512,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1405,
+    "show_id": 1405,
     "summary": "The eighth and final season of Dexter premiered on June 30, 2013. The season follows Dexter, who is forced to deal with his past when he comes across Dr. Evelyn Vogel, a woman who claims to have structured the code for him alongside Harry. This season also deals with a new serial killer in Miami that removes pieces of the victims' brains, and with Debra who is trying to deal with what she has done."
 },
 {
@@ -1256,19 +1256,19 @@
         976756,
         978394
     ],
-    "id": 60040,
+    "_id": 60040,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 60622,
+    "show_id": 60622,
     "summary": "In January 2006, Lorne Malvo passes through Bemidji, Minnesota and influences put-upon insurance salesman Lester Nygaard with his malice and violence. Meanwhile, Deputy Molly Solverson and Duluth police officer Gus Grimly team up to solve a series of murders they believe may be linked to Malvo and Nygaard."
 },
 {
     "air_date": "2015-02-10",
     "episodes": [],
-    "id": 62204,
+    "_id": 62204,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 60622,
+    "show_id": 60622,
     "summary": "FX has officially renewed Fargo for a ten-episode second season, to premiere 2015.\n\nAccording to series creator Noah Hawley, the second season's story will revolve around an incident that occurred in 1979 in Sioux Falls, South Dakota, which was often mentioned during the first season, and will feature a young Lou Solverson and Molly's mother."
 },
 {
@@ -1279,10 +1279,10 @@
         66449,
         66451
     ],
-    "id": 3847,
+    "_id": 3847,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1437,
+    "show_id": 1437,
     "summary": ""
 },
 {
@@ -1303,10 +1303,10 @@
         1048605,
         1048606
     ],
-    "id": 3846,
+    "_id": 3846,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1437,
+    "show_id": 1437,
     "summary": "Captain Malcolm 'Mal' Reynolds is a former galactic war veteran who is the captain of the transport ship \"Serenity\". Mal and his crew, ensign Zoe Alleyne Washburne; Zoe's husband, pilot Hoban 'Wash' Washburne; muscular mercenary Jayne Cobb; young mechanic Kaylee Frye; former Alliance medical officer Simon Tam; his disturbed teenage sister River (both on the run from the interplanetary government \"The Alliance\"); the beautiful courtesan Inara Serra; and preacher Shepherd Book do any jobs, legal or illegal, they can find as the Serenity crew travels across the outskirts of outer space."
 },
 {
@@ -1343,10 +1343,10 @@
         178957,
         178958
     ],
-    "id": 7427,
+    "_id": 7427,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 2382,
+    "show_id": 2382,
     "summary": ""
 },
 {
@@ -1371,10 +1371,10 @@
         178927,
         178928
     ],
-    "id": 7426,
+    "_id": 7426,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 2382,
+    "show_id": 2382,
     "summary": ""
 },
 {
@@ -1387,10 +1387,10 @@
         87641,
         87639
     ],
-    "id": 4583,
+    "_id": 4583,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": ""
 },
 {
@@ -1421,10 +1421,10 @@
         86092,
         86095
     ],
-    "id": 4573,
+    "_id": 4573,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The first season of Friends, an American sitcom created by David Crane and Marta Kauffman, premiered on NBC on September 22, 1994.\n\nFriends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 18, 1995."
 },
 {
@@ -1455,10 +1455,10 @@
         1007806,
         86229
     ],
-    "id": 4574,
+    "_id": 4574,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The second season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 21, 1995. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 16, 1996. TV Guide placed the season 31st on their list of television's 100 all-time greatest seasons, being one of the series's three on the list."
 },
 {
@@ -1490,10 +1490,10 @@
         86369,
         86330
     ],
-    "id": 4575,
+    "_id": 4575,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The third season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 19, 1996. It is usually regarded as some of the series's finest work. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 25 episodes and concluded airing on May 15, 1997."
 },
 {
@@ -1524,10 +1524,10 @@
         86432,
         86504
     ],
-    "id": 4576,
+    "_id": 4576,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The fourth season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 25, 1997. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 7, 1998. It was one of three seasons included on TV Guide's list of the Top 100 TV Seasons."
 },
 {
@@ -1558,10 +1558,10 @@
         86620,
         1007809
     ],
-    "id": 4577,
+    "_id": 4577,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The fifth season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 24, 1998. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 20, 1999."
 },
 {
@@ -1593,10 +1593,10 @@
         86979,
         86996
     ],
-    "id": 4578,
+    "_id": 4578,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The sixth season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 23, 1999. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 25 episodes and concluded airing on May 18, 2000."
 },
 {
@@ -1627,10 +1627,10 @@
         87181,
         87202
     ],
-    "id": 4579,
+    "_id": 4579,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The seventh season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on October 12, 2000. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 17, 2001."
 },
 {
@@ -1661,10 +1661,10 @@
         87405,
         87409
     ],
-    "id": 4580,
+    "_id": 4580,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The eighth season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 27, 2001. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 16, 2002. This season had an average of 24.5 million of viewers, making it the most watched show in 2002, and the most watched season of the series."
 },
 {
@@ -1695,10 +1695,10 @@
         87480,
         87516
     ],
-    "id": 4581,
+    "_id": 4581,
     "name": "Season 9",
     "season_number": 9,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The ninth season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 26, 2002. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 24 episodes and concluded airing on May 15, 2003."
 },
 {
@@ -1723,10 +1723,10 @@
         87632,
         87634
     ],
-    "id": 4582,
+    "_id": 4582,
     "name": "Season 10",
     "season_number": 10,
-    "series_id": 1668,
+    "show_id": 1668,
     "summary": "The tenth and final season of Friends, an American situation comedy created by David Crane and Marta Kauffman, premiered on NBC on September 25, 2003. Friends was produced by Bright/Kauffman/Crane Productions, in association with Warner Bros. Television. The season contains 18 episodes and concluded airing on May 6, 2004."
 },
 {
@@ -1738,10 +1738,10 @@
         761810,
         761811
     ],
-    "id": 43387,
+    "_id": 43387,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 31911,
+    "show_id": 31911,
     "summary": ""
 },
 {
@@ -1812,10 +1812,10 @@
         761874,
         761875
     ],
-    "id": 43388,
+    "_id": 43388,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 31911,
+    "show_id": 31911,
     "summary": ""
 },
 {
@@ -1833,10 +1833,10 @@
         974559,
         1041057
     ],
-    "id": 3627,
+    "_id": 3627,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": ""
 },
 {
@@ -1853,10 +1853,10 @@
         63064,
         63065
     ],
-    "id": 3624,
+    "_id": 3624,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": "The first season of the epic fantasy television drama series Game of Thrones premiered on HBO on April 17, 2011, and concluded on June 19, 2011, airing on Sunday at 9:00 pm in the United States. It consisted of 10 episodes, each running approximately 55 minutes in length. Game of Thrones is based on the novel A Game of Thrones, the first entry in A Song of Ice and Fire series by George R. R. Martin. The story takes place in a fictional world, primarily upon a continent called Westeros. The noble House Stark, led by Lord Eddard \"Ned\" Stark is drawn into schemes against King Robert Baratheon when the Hand of the King Jon Arryn dies mysteriously."
 },
 {
@@ -1873,10 +1873,10 @@
         63072,
         63075
     ],
-    "id": 3625,
+    "_id": 3625,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": "The second season of the epic fantasy drama television series Game of Thrones premiered in the United States on HBO on April 1, 2012, and concluded on June 3, 2012. Like the first season, it consists of ten episodes. It mostly covers the events of A Clash of Kings, the second book of the A Song of Ice and Fire novels by George R. R. Martin, of which the series is an adaptation."
 },
 {
@@ -1893,10 +1893,10 @@
         63080,
         63079
     ],
-    "id": 3626,
+    "_id": 3626,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": "The third season of the epic fantasy drama television series Game of Thrones premiered on March 31, 2013 on HBO. HBO renewed the series for a third season on April 10, 2012, nine days after the second season's premiere. Production began in July 2012.\n\nLike the other seasons, the third season consists of ten episodes. It is based roughly on the first half of A Storm of Swords of which the series is an adaptation."
 },
 {
@@ -1913,10 +1913,10 @@
         63102,
         63103
     ],
-    "id": 3628,
+    "_id": 3628,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": "The War of the Five Kings is drawing to a close, but new intrigues and plots are in motion, and the surviving factions must contend with enemies not only outside their ranks, but within."
 },
 {
@@ -1930,10 +1930,10 @@
         1051287,
         1051288
     ],
-    "id": 62090,
+    "_id": 62090,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1399,
+    "show_id": 1399,
     "summary": ""
 },
 {
@@ -1957,10 +1957,10 @@
         986342,
         986343
     ],
-    "id": 51168,
+    "_id": 51168,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 40075,
+    "show_id": 40075,
     "summary": ""
 },
 {
@@ -1987,10 +1987,10 @@
         871299,
         871300
     ],
-    "id": 51167,
+    "_id": 51167,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 40075,
+    "show_id": 40075,
     "summary": "The first season of the American animated television series Gravity Falls consisted of 20 episodes on the Disney Channel, and aired from June 15, 2012 to August 2, 2013."
 },
 {
@@ -2008,10 +2008,10 @@
         1039058,
         1044418
     ],
-    "id": 51169,
+    "_id": 51169,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 40075,
+    "show_id": 40075,
     "summary": ""
 },
 {
@@ -2040,10 +2040,10 @@
         64481,
         64485
     ],
-    "id": 3722,
+    "_id": 3722,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": ""
 },
 {
@@ -2059,10 +2059,10 @@
         64390,
         64391
     ],
-    "id": 3718,
+    "_id": 3718,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The first season of the American television medical drama Grey's Anatomy, began airing in the United States on the American Broadcasting Company on March 27, 2005 and concluded on May 22, 2005. The first season introduces the main character, Meredith Grey, as she enrolls in Seattle Grace Hospital's internship program and faces unexpected challenges and surprises. Season one had nine series regulars, six of whom have been part of the main cast ever since. The season initially served as a mid-season replacement for the legal drama Boston Legal, airing in the Sunday night time slot at 10:00, after Desperate Housewives. Although no clip shows have been produced for this season, the events that occur are recapped in \"Straight to Heart\", a clip-show which aired one week before the winter holiday hiatus of the second season ended. The season was officially released on DVD as two-disc Region 1 box set under the title of Grey's Anatomy: Season One on February 14, 2006 by Buena Vista Home Entertainment.\n\nThe season's reviews and critiques were generally positive, and the series received several awards and nominations for the cast and crew. The first five episodes of the second season were conceived, written and shot to air as the final five episodes of the first season, but aired during the 2005-2006 season due to the high number of viewers that watched \"Who's Zoomin' Who?\", the season's highest-rated episode with 22.22 million viewers tuning in."
 },
 {
@@ -2096,10 +2096,10 @@
         64417,
         64418
     ],
-    "id": 3719,
+    "_id": 3719,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The second season of the American television medical drama Grey's Anatomy commenced airing on the American Broadcasting Company on September 25, 2005, and concluded on May 15, 2006. The season was produced by Touchstone Television, in association with Shondaland production company and The Mark Gordon Company, the showrunner being Shonda Rhimes. Actors Ellen Pompeo, Sandra Oh, Katherine Heigl, Justin Chambers, and T.R. Knight reprised their roles as surgical interns Meredith Grey, Cristina Yang, Izzie Stevens, Alex Karev, and George O'Malley, respectively. Previous main cast members Chandra Wilson, James Pickens, Jr., Isaiah Washington, and Patrick Dempsey also returned, while Kate Walsh, who began the season in a recurring capacity, was promoted to series regular status, after appearing in seven episodes as a guest star.\n\nThe season continued to focus on the surgical residency of five young interns as they try to balance to the challenges of their competitive careers, with the difficulties that determine their personal lives. It was set in the fictional Seattle Grace Hospital, located in the city of Seattle, Washington. Whereas the first season put the emphasis mainly on the unexpected impact the surgical field has on the main characters, the second one provides a detailed perspective on the personal background of each character, focusing on the consequences that their decisions have on their careers. Throughout the season, new story lines were introduced, including the love triangle between Meredith Grey, Derek Shepherd, and Addison Montgomery, the main arc of the season. Also heavily developed was the story line involving Izzie Stevens' relationship with patient Denny Duquette, which resulted in critical acclaim and positive fan response."
 },
 {
@@ -2131,10 +2131,10 @@
         64332,
         64333
     ],
-    "id": 3715,
+    "_id": 3715,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The third season of the American television medical drama Grey's Anatomy, commenced airing on the American Broadcasting Company on September 21, 2006, and concluded on May 17, 2007. The season was produced by Touchstone Television, in association with Shondaland Production Company and The Mark Gordon Company, the showrunner being Shonda Rhimes. Actors Ellen Pompeo, Sandra Oh, Katherine Heigl, Justin Chambers, and T.R. Knight reprised their roles as surgical interns Meredith Grey, Cristina Yang, Izzie Stevens, Alex Karev, and George O'Malley, respectively, continuing their expansive storylines as focal points throughout the season. Previous main cast members Chandra Wilson, James Pickens, Jr., Kate Walsh, Isaiah Washington, and Patrick Dempsey also returned, while previous guest stars Sara Ramirez and Eric Dane were promoted to series regulars, following the extension of their contracts.\n\nThe season followed the continuation of the surgical residency of five young interns, as they experience the demands of the competitive field of medicine, which becomes defining in their personal evolution. Although set in fictional Seattle Grace Hospital, located in Seattle, Washington, filming primarily occurred in Los Angeles, California. Whereas the first season mainly focused on the impact the surgical field has on the main characters, and the second one provided a detailed perspective on the physicians' private lives, the third season deals with the tough challenges brought by the last phase of the surgeons' internship, combining the professional motif emphasized in the first season, with the complex personal background used in the second. Through the season, several new storylines are introduced, including the arrival of Dane's character, Dr. Mark Sloan, conceived and introduced as an antagonizing presence."
 },
 {
@@ -2158,10 +2158,10 @@
         64358,
         64356
     ],
-    "id": 3716,
+    "_id": 3716,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The fourth season of the American television medical drama Grey's Anatomy, commenced airing in the United States on September 27, 2007 and concluded on May 22, 2008. The season continues the story of a group of surgeons and their mentors in the fictional Seattle Grace Hospital, describing their professional lives and the way they affect the personal background of each character. Season four had twelve series regulars with ten of them returning from the previous season, out of which eight are part of the original cast from the first season. The season aired in the Thursday night timeslot at 9:00 EST. In addition to the regular seventeen episodes, a clip-show narrated by the editors of People recapped previous events of the show and made the transition from Grey's Anatomy to Private Practice, a spin-off focusing of Dr. Addison Montgomery and aired on September 19, 2007, before the season premiere. The season was officially released on DVD as a five-disc boxset under the title of Grey's Anatomy: Season Four \u2013 Expanded on September 9, 2008 by Buena Vista Home Entertainment.\n\nFor the first time in the show's history, many cast changes occur, seeing the first departure of two main cast members. The season received mixed response from critics and fans, resulting in several awards and nominations for the cast members and the production team. Show creator Shonda Rhimes heavily contributed to the production of the season, writing five out of the seventeen episodes. The highest-rated episode was the season premiere, which was watched by 20.93 million viewers. The season was interrupted by the 2007\u20132008 Writers Guild of America strike, which resulted in the production of only seventeen episodes, instead of twenty-three originally planned."
 },
 {
@@ -2192,10 +2192,10 @@
         64377,
         64378
     ],
-    "id": 3717,
+    "_id": 3717,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The fifth season of the American television medical drama Grey's Anatomy, created by Shonda Rhimes, commenced airing on American Broadcasting Company in the United States on September 25, 2008 and concluded on May 14, 2009 with twenty-four aired episodes. The season follows the story of a group of surgeons as they go through their residency, while they also deal with the personal challenges and relationships with their mentors. Season five had thirteen series regulars with twelve of them returning from the previous season. The season aired in the Thursday night timeslot at 9:00 pm. The season was officially released on DVD as seven-disc boxset under the title of Grey's Anatomy: The Complete Fifth Season \u2013 More Moments on September 9, 2009 by Buena Vista Home Entertainment."
 },
 {
@@ -2226,10 +2226,10 @@
         64439,
         64438
     ],
-    "id": 3720,
+    "_id": 3720,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The sixth season of the American television medical drama Grey's Anatomy, commenced airing on the American Broadcasting Company in the United States on September 24, 2009, and concluded on May 20, 2010. The season was produced by ABC Studios, in association with Shondaland Production Company and The Mark Gordon Company; the showrunner being Shonda Rhimes. Actors Ellen Pompeo, Sandra Oh, Katherine Heigl, and Justin Chambers reprised their roles as surgical residents Meredith Grey, Cristina Yang, Izzie Stevens, and Alex Karev, respectively. Heigl was released from her contract in the middle of the season, while T.R. Knight did not appear as George O'Malley, because Knight was released from his contract at the conclusion of season five. Main cast members Patrick Dempsey, Chandra Wilson, James Pickens, Jr., Sara Ramirez, Eric Dane, Chyler Leigh, and Kevin McKidd also returned, while previous recurring star Jessica Capshaw was promoted to a series regular, and Kim Raver was given star billing after the commencement of the season.\n\nThe season follows the story of surgical interns, residents and their competent mentors, as they experience the difficulties of the competitive careers they have chosen. It is set in the surgical wing of the fictional Seattle Grace Hospital, located in Seattle, Washington. A major storyline of the season is the characters adapting to change, as their beloved co-worker Stevens departed following the breakdown of her marriage, O'Malley died in the season premiere\u2014following his being dragged by a bus, and new cardiothoracic surgeon Teddy Altman is given employment at the hospital. Further storylines include Shepherd being promoted to chief of surgery, Seattle Grace Hospital merging with the neighboring Mercy West \u2014introducing several new doctors, and several physicians lives being placed into danger\u2014when a grieving deceased patient's husband embarks on a shooting spree at the hospital, seeking revenge for his wife's death."
 },
 {
@@ -2258,10 +2258,10 @@
         64461,
         64464
     ],
-    "id": 3721,
+    "_id": 3721,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The seventh season of the American television medical drama Grey's Anatomy, commenced airing on September 23, 2010 on the American Broadcasting Company, and concluded on May 19, 2011 ending the season with a total of 22 episodes. The season was produced by ABC Studios, in association with Shondaland Production Company and The Mark Gordon Company; the showrunner being Shonda Rhimes."
 },
 {
@@ -2292,10 +2292,10 @@
         64509,
         64510
     ],
-    "id": 3723,
+    "_id": 3723,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The eighth season of the American television medical drama Grey's Anatomy, commenced airing on the American Broadcasting Company on September 22, 2011, with a special two-hour episode and ended on May 17, 2012 with the eighth season having a total of 24 episodes. The season was produced by ABC Studios, in association with Shondaland Production Company and The Mark Gordon Company; the showrunner being Shonda Rhimes."
 },
 {
@@ -2326,10 +2326,10 @@
         64533,
         64527
     ],
-    "id": 3724,
+    "_id": 3724,
     "name": "Season 9",
     "season_number": 9,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The ninth season of the American television medical drama Grey's Anatomy began airing in the United States on the American Broadcasting Company on September 27, 2012, and consists of 24 episodes.\n\nIt was announced by ABC on May 10, 2013 that the tenth season of Grey's Anatomy would begin in the Fall of 2013."
 },
 {
@@ -2360,10 +2360,10 @@
         975270,
         975400
     ],
-    "id": 3725,
+    "_id": 3725,
     "name": "Season 10",
     "season_number": 10,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "The tenth season of the American television medical drama Grey's Anatomy began airing in the United States on the American Broadcasting Company on September 26, 2013, and will consist of 24 episodes."
 },
 {
@@ -2390,10 +2390,10 @@
         1046729,
         1050108
     ],
-    "id": 62051,
+    "_id": 62051,
     "name": "Season 11",
     "season_number": 11,
-    "series_id": 1416,
+    "show_id": 1416,
     "summary": "During an interview, Shonda Rhimes stated that \"Season 11 is really a Meredith-centric season. She lost her \u2018person\u2019, her half-sister has shown up, her husband is chafing to go someplace else\u2026\u201d She went on to reveal that she's been wanting to do the \"familial grenade\" storyline for a long time, and at the end of Season 10, she knew it was the time to do it. Rhimes also claimed that Season 11 will pick up right where Season 10 left us, so there won't be much that the audience won't see. In another interview discussing this storyline, Rhimes revealed that she and the writers are thinking about doing flashback periods to the younger days of Drs. Ellis Grey and Richard Webber."
 },
 {
@@ -2405,10 +2405,10 @@
         63918,
         63919
     ],
-    "id": 3682,
+    "_id": 3682,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": ""
 },
 {
@@ -2437,10 +2437,10 @@
         63758,
         63759
     ],
-    "id": 3674,
+    "_id": 3674,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "The first season of House premiered November 16, 2004 and ended May 25, 2005. The season followed Dr. House and his team as they solve a medical case each episode. The season's sub-plot revolved around billionaire Edward Vogler making a $100 million donation to the hospital. Through this donation, Vogler became the new chairman of the board of PPTH, however, seeing House and his team as a waste of time and resources, he decreases their payment, eventually forcing House to fire one of his team members.\n\nChi McBride joined the cast as Vogler in five episodes of the show. His character was brought in after Universal Studios president Jeff Zucker threatened that the season would be cut short by six episodes if a boss-character would not be added. While there were possibilities of the character returning, he was generally disliked by viewers and critics and therefore not brought back into the show. Sela Ward, who would return as the main recurring character of season two, appeared in the final two episodes as Stacy Warner, House's former girlfriend."
 },
 {
@@ -2471,10 +2471,10 @@
         63782,
         63783
     ],
-    "id": 3675,
+    "_id": 3675,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "Season two premiered on September 13, 2005 and ended on May 23, 2006. During the season, House tries to cope with his feelings for his ex-girlfriend Stacy Warner, who, after House diagnosed her husband with Acute intermittent porphyria, has taken a job in the legal department of the PPTH.\n\nSela Ward's chemistry with Laurie in the final two episodes of season one was strong enough to have her character return in seven episodes of the second season."
 },
 {
@@ -2505,10 +2505,10 @@
         63867,
         63868
     ],
-    "id": 3679,
+    "_id": 3679,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "House's third season ran from September 5, 2006 to May 29, 2007. Early in the season, House temporarily regains the use of his leg due to ketamine treatment after he was shot in the season two finale. Later in the season, he leaves a stubborn patient in an exam room with a thermometer in his rectum. Because House is unwilling to apologize, the patient, police detective Michael Tritter, starts an investigation around House's Vicodin addiction. The third season concluded with a cliffhanger finale, in which House fires Chase and Foreman and Cameron both resign, leaving House without a team for the fourth season.\n\nDavid Morse joined the cast for seven episodes as Tritter. He was cast for the role after having previously worked with House's creator David Shore on CBS' Hack."
 },
 {
@@ -2531,10 +2531,10 @@
         63843,
         63844
     ],
-    "id": 3678,
+    "_id": 3678,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "The fourth season of House premiered on September 25, 2007 and ended May 19, 2008. Having previously fired Chase, and with Foreman and Cameron quitting, House starts a competition between forty applicants for the vacant positions. He eventually narrows them down to seven, firing one each episode. In the episode \"Games\", he fires Amber \"Cutthroat Bitch\" Volakis, hiring Dr. Chris Taub, Dr. Lawrence Kutner and Dr. Remy \"Thirteen\" Hadley as his new team. Dr. Foreman rejoins the team after his dismissal from another hospital. Meanwhile, Amber begins a relationship with Wilson.\n\nInterrupted by the 2007\u20132008 Writers Guild of America strike, the number of episodes was reduced to 16 instead of the planned 24. Executive producer Katie Jacobs explained that it was hard for the writers to finish the story arcs started during the season with eight episodes fewer. Season four also introduced seven actors to the cast; in addition to Jacobson, Penn and Wilde, who became regulars, Andy Comeau portrayed Travis Brennan, an epidemiologist; Edi Gathegi played Jeffrey Cole, a geneticist; Carmen Argenziano appeared as Henry Dobson, a former medical school admissions officer; and Anne Dudek portrayed Amber \"Cut-throat Bitch\" Volakis, an interventional radiologist. Each of the four departed the show after elimination, except for Volakis, who remained recurring until the finale, having started a relationship with Wilson."
 },
 {
@@ -2565,10 +2565,10 @@
         63805,
         63806
     ],
-    "id": 3676,
+    "_id": 3676,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "The fifth season of House premiered September 16, 2008 and ended May 11, 2009. It began to air in a new time slot from September to December: Tuesday 8/7c. Starting January 19, 2009, House moved to Mondays at 8/7c. Sky1 has taken over the rights to screen the show in the UK airing Sundays at 9pm."
 },
 {
@@ -2596,10 +2596,10 @@
         63820,
         63821
     ],
-    "id": 3677,
+    "_id": 3677,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "House entered a sixth season on September 21, 2009 with a two-hour premiere. The season premiere, titled \"Broken\", was filmed at the Greystone Park Psychiatric Hospital in New Jersey.\n\nSeason six featured 22 episodes, two fewer than the usual number. In the United Kingdom, the series began airing on Sky 1 and Sky 1 HD on October 4, 2009, two weeks behind the North American broadcast.\n\nSeason 6 was fairly well critically received scoring 77 on Metacritic."
 },
 {
@@ -2629,10 +2629,10 @@
         63888,
         63890
     ],
-    "id": 3680,
+    "_id": 3680,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": " Dr. House and Cuddy attempt to make a real relationship work and face the question as to whether their new relationship will affect their ability to diagnose patients."
 },
 {
@@ -2661,10 +2661,10 @@
         971522,
         63912
     ],
-    "id": 3681,
+    "_id": 3681,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1408,
+    "show_id": 1408,
     "summary": "The eighth and final season of House was ordered on May 10, 2011. It premiered on October 3, 2011."
 },
 {
@@ -2684,10 +2684,10 @@
         65196,
         65197
     ],
-    "id": 3768,
+    "_id": 3768,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1425,
+    "show_id": 1425,
     "summary": "Betrayed by the White House, Congressman Francis Underwood embarks on a ruthless rise to power. Blackmail, seduction and ambition are his weapons."
 },
 {
@@ -2707,10 +2707,10 @@
         972126,
         972041
     ],
-    "id": 3767,
+    "_id": 3767,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1425,
+    "show_id": 1425,
     "summary": "In their ruthless rise to power, Francis and Claire battle threats past and present, and form new alliances while old ones succumb to betrayal."
 },
 {
@@ -2730,10 +2730,10 @@
         1021735,
         1021736
     ],
-    "id": 63599,
+    "_id": 63599,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1425,
+    "show_id": 1425,
     "summary": "President Underwood fights to secure his legacy. Claire wants more than being First Lady. The biggest threat they face is contending with each other."
 },
 {
@@ -2741,10 +2741,10 @@
     "episodes": [
         988983
     ],
-    "id": 61128,
+    "_id": 61128,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 59186,
+    "show_id": 59186,
     "summary": ""
 },
 {
@@ -2768,10 +2768,10 @@
         988986,
         989001
     ],
-    "id": 61125,
+    "_id": 61125,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 59186,
+    "show_id": 59186,
     "summary": ""
 },
 {
@@ -2806,10 +2806,10 @@
         989024,
         989023
     ],
-    "id": 61126,
+    "_id": 61126,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 59186,
+    "show_id": 59186,
     "summary": ""
 },
 {
@@ -2847,10 +2847,10 @@
         1012595,
         1012596
     ],
-    "id": 61127,
+    "_id": 61127,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 59186,
+    "show_id": 59186,
     "summary": ""
 },
 {
@@ -2869,19 +2869,19 @@
         1051115,
         1053439
     ],
-    "id": 65654,
+    "_id": 65654,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 59186,
+    "show_id": 59186,
     "summary": ""
 },
 {
     "air_date": "",
     "episodes": [],
-    "id": 8795,
+    "_id": 8795,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": ""
 },
 {
@@ -2895,10 +2895,10 @@
         213054,
         213051
     ],
-    "id": 8789,
+    "_id": 8789,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The first season of It's Always Sunny in Philadelphia, premiered on FX on August 4, 2005. The season contains 7 episodes and concluded airing on September 15, 2005."
 },
 {
@@ -2915,10 +2915,10 @@
         213057,
         213059
     ],
-    "id": 8790,
+    "_id": 8790,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The second season of It's Always Sunny in Philadelphia, premiered on FX on June 29, 2006. The season contains 10 episodes and concluded airing on August 17, 2006."
 },
 {
@@ -2940,10 +2940,10 @@
         213078,
         213079
     ],
-    "id": 8791,
+    "_id": 8791,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The third season of It's Always Sunny in Philadelphia, premiered on FX on September 13, 2007. The season contains 15 episodes and concluded airing on November 15, 2007."
 },
 {
@@ -2963,10 +2963,10 @@
         213091,
         213092
     ],
-    "id": 8792,
+    "_id": 8792,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The fourth season of It's Always Sunny in Philadelphia, premiered on FX on September 18, 2008. The season contains 13 episodes and concluded airing on November 20, 2008."
 },
 {
@@ -2985,10 +2985,10 @@
         213103,
         213095
     ],
-    "id": 8793,
+    "_id": 8793,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The fifth season of It's Always Sunny in Philadelphia, premiered on FX on September 17, 2009. The season contains 12 episodes and concluded airing on December 10, 2009."
 },
 {
@@ -3008,10 +3008,10 @@
         213116,
         213117
     ],
-    "id": 8794,
+    "_id": 8794,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The sixth season of It's Always Sunny in Philadelphia, premiered on FX on September 16, 2010. The season contains 14 episodes and concluded airing on December 9, 2010 with the hour-long Christmas special. An additional episode called \"The Gang Gets Successful\" was produced for this season, but was not aired, despite scenes from the episode being included in promotional material for season 6. It was later re-edited with new scenes to create the Season 7 episode \"How Mac Got Fat\"."
 },
 {
@@ -3031,10 +3031,10 @@
         213129,
         213130
     ],
-    "id": 8796,
+    "_id": 8796,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The seventh season of It's Always Sunny in Philadelphia, premiered on FX on September 15, 2011. The season contained 13 episodes, and concluded airing on December 15, 2011. The episode \"How Mac Got Fat\" includes scenes produced during season 6 that featured Mac, before he got fat."
 },
 {
@@ -3052,10 +3052,10 @@
         213141,
         213135
     ],
-    "id": 8797,
+    "_id": 8797,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": "The eighth season of It's Always Sunny in Philadelphia, premiered on FX on October 11, 2012. This season consisted of 10 episodes, and concluded airing on December 20, 2012."
 },
 {
@@ -3072,10 +3072,10 @@
         968374,
         968375
     ],
-    "id": 8798,
+    "_id": 8798,
     "name": "Season 9",
     "season_number": 9,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": ""
 },
 {
@@ -3092,10 +3092,10 @@
         1044435,
         1043089
     ],
-    "id": 64539,
+    "_id": 64539,
     "name": "Season 10",
     "season_number": 10,
-    "series_id": 2710,
+    "show_id": 2710,
     "summary": ""
 },
 {
@@ -3117,10 +3117,10 @@
         1012810,
         1012811
     ],
-    "id": 60628,
+    "_id": 60628,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 60694,
+    "show_id": 60694,
     "summary": ""
 },
 {
@@ -3151,10 +3151,10 @@
         1012741,
         1012812
     ],
-    "id": 60357,
+    "_id": 60357,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 60694,
+    "show_id": 60694,
     "summary": "The Daily Show's John Oliver moves to HBO to host his own weekly half-hour satirical news show."
 },
 {
@@ -3171,10 +3171,10 @@
         1044572,
         1053437
     ],
-    "id": 64916,
+    "_id": 64916,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 60694,
+    "show_id": 60694,
     "summary": ""
 },
 {
@@ -3182,10 +3182,10 @@
     "episodes": [
         62073
     ],
-    "id": 3564,
+    "_id": 3564,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": ""
 },
 {
@@ -3205,10 +3205,10 @@
         62017,
         62019
     ],
-    "id": 3566,
+    "_id": 3566,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The first season of the American television drama series Mad Men premiered on July 19, 2007 and concluded on October 18, 2007. It consisted of thirteen episodes, each running approximately 47 minutes. AMC broadcast the first season on Thursdays at 10:00 pm in the United States. Actors Jon Hamm, Elisabeth Moss, Vincent Kartheiser, January Jones, Christina Hendricks, Bryan Batt, Michael Gladis, Aaron Staton, Rich Sommer, and Maggie Siff receive main cast billing.\n\nSeason one takes place between March and November 1960. It introduces the fictional advertising agency Sterling Cooper. The season begins with the new secretary, Peggy Olson, starting her first day with the firm. As the season unfolds, the mysterious backstory of enigmatic ad man Don Draper is revealed as are the growing confidence and success of Peggy Olson.\n\nThe first season was highly praised for its excellence in writing, acting, and art design. It was acknowledged with numerous honors from industry awards, including the Primetime Emmy Award for Outstanding Drama Series, the Golden Globe Award for Best Drama Series, and a Peabody Award."
 },
 {
@@ -3228,10 +3228,10 @@
         62032,
         62033
     ],
-    "id": 3567,
+    "_id": 3567,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The second season of the American television drama series Mad Men premiered on July 27, 2008 and concluded on October 26, 2008. It consisted of thirteen episodes, each running approximately 47 minutes in length. AMC broadcast the second season on Sundays at 10:00 pm in the United States.\n\nSeason two takes place between February and October 1962, culminating with the Cuban Missile Crisis. It expands on Peggy's rise in the workplace and the marital strife between Don and Betty Draper as Don's infidelities further intrude on his family life. The second season also introduces an unknown acquaintance of Don Draper. Draper is corresponding by letter with this unseen acquaintance in secret.\n\nThe second season was met with critical acclaim. The second season of Mad Men was honored with the Primetime Emmy Award for Outstanding Drama Series, the Golden Globe Award for Best Drama Series, and recognition by the American Film Institute, all for the second year in a row."
 },
 {
@@ -3251,10 +3251,10 @@
         62046,
         62044
     ],
-    "id": 3568,
+    "_id": 3568,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The third season of the American television drama series Mad Men premiered on August 16, 2009 and concluded on November 8, 2009. It consisted of thirteen episodes, each running approximately 47 minutes in length. AMC broadcast the third season on Sundays at 10:00 pm in the United States.\n\nSeason three takes place six months after the conclusion of the second season and ends in December 1963. It chronicles the end of the \"Camelot era\" as the characters go through immense change in their professional and personal lives.\n\nThe third season was exalted by television critics and was a major winner in many television awards. Mad Men won the Primetime Emmy Award for Outstanding Drama Series, Golden Globe Award for Best Drama Series, and acknowledgement by the American Film Institute for the third year in a row."
 },
 {
@@ -3274,10 +3274,10 @@
         62055,
         62057
     ],
-    "id": 3569,
+    "_id": 3569,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The fourth season of the American television drama series Mad Men premiered on July 25, 2010 and concluded on October 17, 2010. It consisted of thirteen episodes, each running approximately 47 minutes in length. AMC broadcast the fourth season on Sundays at 10:00 pm in the United States.\n\nSeason four takes place between November 1964 and October 1965. It is set at the new and considerably more modern advertising agency, Sterling Cooper Draper Pryce. The main narrative of the fourth season is driven by Don Draper's identity crisis. As Don falls deeper into existential despair, he begins regularly meeting with women of loose moral character and faces debilitating alcoholism.\n\nThe fourth season was commended by the television critic community, especially for the continued excellence in all areas of production during the fourth season, as well as the character development of Don Draper, Peggy Olson, and the rest of the ensemble cast. It received the Primetime Emmy Award for Outstanding Drama Series and recognition from the American Film Institute for the fourth year in a row."
 },
 {
@@ -3297,10 +3297,10 @@
         62064,
         62065
     ],
-    "id": 3570,
+    "_id": 3570,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The fifth season of the American television drama series Mad Men premiered on March 25, 2012, with a two-episode premiere and concluded on June 10, 2012. It consisted of thirteen episodes, each running approximately 47 minutes in length. AMC broadcast the fifth season on Sundays at 10:00 pm in the United States.\n\nSeason 5 takes place between Memorial Day 1966 and spring 1967. The season explores Don Draper's new marriage to Megan, which leads him to ignore his work at the Sterling Cooper Draper Pryce advertising agency. Meanwhile, Lane, Pete, Roger, Joan, and Peggy learn that it is \"every man for himself\" in their personal and professional lives, as they each face painful new beginnings."
 },
 {
@@ -3320,10 +3320,10 @@
         62083,
         62006
     ],
-    "id": 3571,
+    "_id": 3571,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The sixth season of the American television drama series Mad Men premiered on April 7, 2013, with a two-hour episode, and concluded on June 23, 2013. It consisted of thirteen episodes, each running for approximately 47 minutes in length. AMC broadcast the sixth season on Sundays at 10:00 pm in the United States. The season premiered in the UK on Sky Atlantic on April 10, 2013.\n\nSeason 6 takes place between December 1967 and November 1968."
 },
 {
@@ -3344,10 +3344,10 @@
         1050296,
         1050297
     ],
-    "id": 3565,
+    "_id": 3565,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1104,
+    "show_id": 1104,
     "summary": "The seventh and final season of the American television drama series Mad Men consists of 14 episodes split into two, seven-episode parts: the first half, titled \"The Beginning\", began on April 13, 2014, on AMC; the second half, titled \"The End of an Era\", will premiere in spring 2015. \n\nThe first part of season 7 begins in January 1969, several weeks after the Thanksgiving 1968 ending of season 6, and ends in July 1969, with characters dealing with the dynamics of lives and offices being split between New York and Los Angeles."
 },
 {
@@ -3402,10 +3402,10 @@
         48140,
         48141
     ],
-    "id": 2511,
+    "_id": 2511,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 849,
+    "show_id": 849,
     "summary": ""
 },
 {
@@ -3425,10 +3425,10 @@
         48057,
         48058
     ],
-    "id": 2507,
+    "_id": 2507,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 849,
+    "show_id": 849,
     "summary": ""
 },
 {
@@ -3448,10 +3448,10 @@
         48072,
         48073
     ],
-    "id": 2508,
+    "_id": 2508,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 849,
+    "show_id": 849,
     "summary": ""
 },
 {
@@ -3471,10 +3471,10 @@
         48087,
         48086
     ],
-    "id": 2509,
+    "_id": 2509,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 849,
+    "show_id": 849,
     "summary": ""
 },
 {
@@ -3487,10 +3487,10 @@
         48093,
         48092
     ],
-    "id": 2510,
+    "_id": 2510,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 849,
+    "show_id": 849,
     "summary": ""
 },
 {
@@ -3503,10 +3503,10 @@
         1013326,
         1043749
     ],
-    "id": 50703,
+    "_id": 50703,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 39272,
+    "show_id": 39272,
     "summary": ""
 },
 {
@@ -3535,10 +3535,10 @@
         866325,
         866323
     ],
-    "id": 50700,
+    "_id": 50700,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 39272,
+    "show_id": 39272,
     "summary": "The first season of the ABC television series Once Upon a Time premiered on October 23, 2011 and concluded on May 13, 2012. The series is created by Edward Kitsis and Adam Horowitz. The series centers on the Enchanted Forest and Storybrooke, and the Evil Queen's plot to destroy everyone's happiness so she can be the only one with a happy ending.\n\nOnce Upon a Time's first season received \"generally favorable\" reviews from critics. Metacritic gave it a score of 66 out of 100 based on 26 reviews. Washington Post's Hank Stuever called the series \"a smartly-crafted reward for fans of light fantasy, with the right mix of cleverness, action and romance.\" Verne Gay of Newsday said the series \"glows with a near-theatrical shine, challenging viewers to think about TV drama as something other than boilerplate.\"\n\nThe pilot episode was watched by 12.93 million viewers and achieved an adult 18-49 rating/share of 4.0/10. Those numbers dipped late in the season to a series low of 8.36 million viewers and a 2.8/8 adult 18-49 rating/share in April 2012, but rebounded slightly for the season finale with 9.66 million viewers and a 3.3/10 adult 18-49 rating/share."
 },
 {
@@ -3567,10 +3567,10 @@
         866345,
         866346
     ],
-    "id": 50701,
+    "_id": 50701,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 39272,
+    "show_id": 39272,
     "summary": "The second season of the ABC television series Once Upon a Time was announced on May 10, 2012. It premiered on September 30, 2012 and concluded on May 12, 2013. This season follows the introduction of magic by Rumplestiltskin/Mr. Gold into Storybrooke, leaving the fate of both the real world and the Fairytale Land that was, intertwined, resulting in new threats emerging.\n\nThe season premiere was watched by 11.36 million viewers, achieving an adult 18-49 rating/share of 3.9/10.0. These numbers sunk to a series low of 7.08 million viewers in February 2013, but remained stable above 7 million throughout the remainder of the season with a season finale viewership of 7.33 million and a 2.3/7 adult 18-49 rating/share."
 },
 {
@@ -3599,10 +3599,10 @@
         976000,
         976001
     ],
-    "id": 50702,
+    "_id": 50702,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 39272,
+    "show_id": 39272,
     "summary": "The third season of the American ABC fantasy-drama Once Upon a Time was announced on May 10, 2013. The premiered on September 29, 2013, with the plot revolving around the main characters travelling to Neverland from Storybrooke to retrieve Henry Mills. The series will feature crossover episodes connecting with the spin-off Once Upon a Time in Wonderland. The season will be split into two parts, with the first eleven episodes airing in Autumn 2013 and the latter half returning in Spring 2014. New characters appearing this season include Ariel, Prince Eric, Tinker Bell, and Peter Pan."
 },
 {
@@ -3628,10 +3628,10 @@
         1051887,
         1053821
     ],
-    "id": 62835,
+    "_id": 62835,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 39272,
+    "show_id": 39272,
     "summary": ""
 },
 {
@@ -3646,10 +3646,10 @@
         245607,
         245609
     ],
-    "id": 10308,
+    "_id": 10308,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3664,10 +3664,10 @@
         245467,
         245456
     ],
-    "id": 10302,
+    "_id": 10302,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3682,10 +3682,10 @@
         245476,
         245477
     ],
-    "id": 10303,
+    "_id": 10303,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3700,10 +3700,10 @@
         245534,
         245537
     ],
-    "id": 10304,
+    "_id": 10304,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3726,10 +3726,10 @@
         245580,
         245581
     ],
-    "id": 10305,
+    "_id": 10305,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3744,10 +3744,10 @@
         245588,
         245589
     ],
-    "id": 10306,
+    "_id": 10306,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3762,10 +3762,10 @@
         245596,
         245597
     ],
-    "id": 10307,
+    "_id": 10307,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 3322,
+    "show_id": 3322,
     "summary": ""
 },
 {
@@ -3782,10 +3782,10 @@
         761967,
         1049420
     ],
-    "id": 43395,
+    "_id": 43395,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": ""
 },
 {
@@ -3814,10 +3814,10 @@
         761908,
         761909
     ],
-    "id": 43392,
+    "_id": 43392,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": "The first season of Pretty Little Liars, based on the books of the same name by Sara Shepard, premiered on June 8, 2010 and concluded on March 21, 2011 on ABC Family. It tells the story of a clique of five girls - Spencer, Aria, Hanna, Emily, and Alison - until one of them goes missing, Alison. One year later, the girls have grown apart and start getting messages from a mysterious 'A', and thinking it's Alison, they soon find out that Alison is dead, and someone else is taking her persona. The show will follow the basic premise of the novels.\n\nThe show premiered to 2.47 million viewers, and retained a regular audience of 2.5 million viewers during its summer run. The summer finale scored 3.07 million viewers, achieving a series high. The show went on hiatus, and returned with its winter premiere on January 3, 2011, with 4.22 million viewers, becoming one of ABC Family's top telecasts ever."
 },
 {
@@ -3849,10 +3849,10 @@
         761932,
         761934
     ],
-    "id": 43393,
+    "_id": 43393,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": "The second season of Pretty Little Liars, based on the books of the same name by Sara Shepard, premiered on June 14, 2011 and concluded on March 19, 2012 on ABC Family. It follows the lives of four teenage girls, Aria Montgomery, Spencer Hastings, Hanna Marin, and Emily Fields, who are dealing with the mysterious disappearance and death of their former best friend and queen bee, Alison DiLaurentis, along with other problems in their personal & social lives. Outcomes of Alison's death include messages from an anonymous source that we know as \"A\". That person knows everything about the girls, including some terrible things that they did in their past with Alison. The second season continues from the season finale of the previous season, in which Ian Thomas, Spencer's brother-in-law, is presumed to have been killed in an incident at the top of a bell tower but is also accused of murdering Alison.\n\nOn January 10, 2011 ABC Family renewed the series for a second season. After an initial order of 24 episodes, it was announced in June that a special Halloween-themed flashback episode would air as part of ABC Family's 13 Nights of Halloween lineup, bringing the season 2 episode order to 25 episodes. The season premiere brought in 3.68 million viewers, which was higher than the season 1 premiere. The Halloween special aired on October 19, 2011, drawing 2.5 million total viewers. The second half of season 2 premiered on January 2, 2012."
 },
 {
@@ -3883,10 +3883,10 @@
         761957,
         761958
     ],
-    "id": 43394,
+    "_id": 43394,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": "The third season of Pretty Little Liars, based on the books of the same name by Sara Shepard, premiered on June 5, 2012 on ABC Family. Filming of the season began on April 2, 2012."
 },
 {
@@ -3917,10 +3917,10 @@
         972027,
         972028
     ],
-    "id": 43396,
+    "_id": 43396,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": ""
 },
 {
@@ -3955,10 +3955,10 @@
         1049593,
         1049594
     ],
-    "id": 61066,
+    "_id": 61066,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 31917,
+    "show_id": 31917,
     "summary": ""
 },
 {
@@ -3970,10 +3970,10 @@
         79868,
         79870
     ],
-    "id": 4273,
+    "_id": 4273,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": ""
 },
 {
@@ -3992,10 +3992,10 @@
         79622,
         79623
     ],
-    "id": 4264,
+    "_id": 4264,
     "name": "Series A",
     "season_number": 1,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": ""
 },
 {
@@ -4014,10 +4014,10 @@
         79636,
         79634
     ],
-    "id": 4265,
+    "_id": 4265,
     "name": "Series B",
     "season_number": 2,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television show hosted by Stephen Fry.\n\nThe first series started on 11 September 2003. Although not mentioned at the time, all of the questions were on subjects beginning with \"a\". The following series continued the theme: the second series' subjects all began with \"b\" and so on.\n\nThe dates in the lists are those of the BBC Two broadcasts. The episodes were also broadcast on BBC Four, generally a week earlier."
 },
 {
@@ -4037,10 +4037,10 @@
         79639,
         79687
     ],
-    "id": 4266,
+    "_id": 4266,
     "name": "Series C",
     "season_number": 3,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television show hosted by Stephen Fry."
 },
 {
@@ -4060,10 +4060,10 @@
         79710,
         79719
     ],
-    "id": 4267,
+    "_id": 4267,
     "name": "Series D",
     "season_number": 4,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television show hosted by Stephen Fry.\n\nThe dates in the lists are those of the BBC Two broadcasts. The episodes were also broadcast on BBC Four, generally a week earlier."
 },
 {
@@ -4083,10 +4083,10 @@
         79742,
         79741
     ],
-    "id": 4268,
+    "_id": 4268,
     "name": "Series E",
     "season_number": 5,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television show hosted by Stephen Fry.\n\nThe dates in the lists are those of the BBC Two broadcasts. The episodes were also broadcast on BBC Four, generally a week earlier."
 },
 {
@@ -4105,10 +4105,10 @@
         79751,
         79759
     ],
-    "id": 4269,
+    "_id": 4269,
     "name": "Series F",
     "season_number": 6,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television program hosted by Stephen Fry. Series F was the first series to broadcast originally on BBC One, starting on 9 January 2009, with the exception of two episodes: one made for Children in Need, which was broadcast on BBC Two on 14 November 2008, and a Christmas special, transmitted on 22 December 2008 on BBC One.\n\nThe rest of the series began on 9 January 2009 on BBC One, with an extended version of the show shown on BBC Two the following day."
 },
 {
@@ -4133,10 +4133,10 @@
         79805,
         79806
     ],
-    "id": 4270,
+    "_id": 4270,
     "name": "Series G",
     "season_number": 7,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television programme hosted by Stephen Fry. Series G was the first in the show's history to be aired in its entirety on BBC One, beginning its run on 26 November 2009."
 },
 {
@@ -4161,10 +4161,10 @@
         79834,
         79837
     ],
-    "id": 4271,
+    "_id": 4271,
     "name": "Series H",
     "season_number": 8,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television programme hosted by Stephen Fry. Series H was aired on BBC One. It was the first series of the show to be aired in high definition."
 },
 {
@@ -4189,10 +4189,10 @@
         79862,
         79861
     ],
-    "id": 4272,
+    "_id": 4272,
     "name": "Series I",
     "season_number": 9,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": "This is a list of episodes of QI, the BBC comedy panel game television programme hosted by Stephen Fry. This series aired on BBC Two, rather than BBC One as it had in recent years. It is the ninth series of QI."
 },
 {
@@ -4217,10 +4217,10 @@
         79893,
         79894
     ],
-    "id": 4274,
+    "_id": 4274,
     "name": "Series J",
     "season_number": 10,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": ""
 },
 {
@@ -4245,10 +4245,10 @@
         970816,
         970817
     ],
-    "id": 4275,
+    "_id": 4275,
     "name": "Series K",
     "season_number": 11,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": ""
 },
 {
@@ -4273,10 +4273,10 @@
         1029704,
         1029705
     ],
-    "id": 64087,
+    "_id": 64087,
     "name": "Series L",
     "season_number": 12,
-    "series_id": 1554,
+    "show_id": 1554,
     "summary": ""
 },
 {
@@ -4294,10 +4294,10 @@
         973676,
         974721
     ],
-    "id": 60059,
+    "_id": 60059,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 60625,
+    "show_id": 60625,
     "summary": ""
 },
 {
@@ -4305,10 +4305,10 @@
     "episodes": [
         118876
     ],
-    "id": 5426,
+    "_id": 5426,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1891,
+    "show_id": 1891,
     "summary": ""
 },
 {
@@ -4327,10 +4327,10 @@
         118864,
         118865
     ],
-    "id": 5424,
+    "_id": 5424,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1891,
+    "show_id": 1891,
     "summary": ""
 },
 {
@@ -4347,10 +4347,10 @@
         118873,
         118874
     ],
-    "id": 5425,
+    "_id": 5425,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1891,
+    "show_id": 1891,
     "summary": ""
 },
 {
@@ -4369,10 +4369,10 @@
         63294,
         63295
     ],
-    "id": 3638,
+    "_id": 3638,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": ""
 },
 {
@@ -4384,10 +4384,10 @@
         63107,
         63108
     ],
-    "id": 3629,
+    "_id": 3629,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season one of Seinfeld, an American television series created by Jerry Seinfeld and Larry David, began airing on July 5, 1989 on NBC. Originally called The Seinfeld Chronicles, the series' name was shortened to Seinfeld to avoid confusion with another sitcom called The Marshall Chronicles. The season finale aired on June 21, 1990.\n\nSeasons 1 & 2 DVD box set was released by Sony Pictures Home Entertainment in the United States and Canada on November 23, 2004, thirteen years after it had completed broadcast on television. In addition to every episode from the two seasons, the DVD release features bonus material, including deleted scenes, animatics, exclusive stand-up material, and commentaries. With only four episodes after the pilot, season one of \"Seinfeld\" is one of the smallest sitcom orders in television history."
 },
 {
@@ -4406,10 +4406,10 @@
         63119,
         63120
     ],
-    "id": 3630,
+    "_id": 3630,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season two of Seinfeld, an American television series created by Jerry Seinfeld and Larry David, began airing on January 23, 1991, on NBC. Because of the commencement of the first Gulf War, the second season's premiere was postponed one week. The season comprised 12 episodes, and concluded its initial airing on June 26, 1991. It introduced a number of characters who played significant roles in later episodes, such as Jerry's Uncle Leo and Jerry's neighbor Newman.\n\nFilming of the show moved from Hollywood to Studio City, Los Angeles. One episode, \"The Bet\", remained unfilmed, as it was considered too provocative by the network, as well as several cast and crew members. Two new writers joined the writing staff, Larry Charles and Peter Mehlman, who would continue to write for the show in later seasons. Even though season two started out with poor ratings, bringing the season to a two-month hiatus, the rest of the season was positively received by critics and was nominated for three Primetime Emmy Awards.\n\nA Seasons 1 and 2 DVD box set was released by Sony Pictures Home Entertainment in the United States and Canada on November 23, 2004, 13 years after it completed broadcast on television. In addition to every episode from the two seasons, the DVD release features bonus material, including deleted scenes, inside looks, bloopers, and commentaries. Four million copies of the DVD were sold by the end of the year, making it one of the best-selling DVDs of all time. TV Guide ranked it as the sixth-greatest TV season ever made."
 },
 {
@@ -4439,10 +4439,10 @@
         63142,
         63143
     ],
-    "id": 3631,
+    "_id": 3631,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season three of Seinfeld, an American television series created by Jerry Seinfeld and Larry David, began airing on September 18, 1991 on NBC, a U.S. broadcast television network. It comprises 23 episodes and concluded its initial airing on May 6, 1992. \"The Tape\", \"The Pen\", and \"The Letter\" are some of the season's episodes that were inspired by the writers' own experiences. Co-creator Larry David admits that season three was a big turning point for the series in terms of how the show was made; it\u2019s where the writers started doing non linear storylines with episodes containing multiple stories. George was becoming a bigger liar, Elaine was becoming more quirky, and Kramer was becoming surer of himself throughout his crazy antics. This season received eight Emmy nominations and one Directors Guild of America Award.\n\nThe DVD boxset for season three was released by Sony Pictures Home Entertainment in Region 1 on November 23, 2004, twelve years after it had completed broadcast on television. It was also released in Region 2 on November 1, 2004 and on October 18, 2004 in Region 4. As well as every episode from the season, the DVD release features bonus material including deleted scenes, exclusive stand-up material, and commentaries."
 },
 {
@@ -4473,10 +4473,10 @@
         63166,
         63167
     ],
-    "id": 3632,
+    "_id": 3632,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season four of Seinfeld, an American comedy television series created by Jerry Seinfeld and Larry David, began airing on August 12, 1992, and concluded on May 20, 1993, on NBC."
 },
 {
@@ -4505,10 +4505,10 @@
         63188,
         63189
     ],
-    "id": 3633,
+    "_id": 3633,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season five of Seinfeld, an American comedy television series created by Jerry Seinfeld and Larry David, began airing on September 16, 1993, and concluded on May 19, 1994, on NBC."
 },
 {
@@ -4539,10 +4539,10 @@
         63210,
         63211
     ],
-    "id": 3634,
+    "_id": 3634,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season six of Seinfeld, an American comedy television series created by Jerry Seinfeld and Larry David, began airing on September 22, 1994, and concluded on May 18, 1995, on NBC. Season six placed first in the Nielsen ratings above Home Improvement and ER."
 },
 {
@@ -4574,10 +4574,10 @@
         63236,
         63237
     ],
-    "id": 3635,
+    "_id": 3635,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season seven of Seinfeld, an American comedy television series created by Jerry Seinfeld and Larry David, began airing on September 21, 1995, and concluded on May 16, 1996, on NBC."
 },
 {
@@ -4606,10 +4606,10 @@
         63259,
         63260
     ],
-    "id": 3636,
+    "_id": 3636,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "Season eight of Seinfeld, an American comedy television series created by Jerry Seinfeld and Larry David, began airing on September 19, 1996, and concluded on May 15, 1997, on NBC."
 },
 {
@@ -4640,10 +4640,10 @@
         63284,
         63283
     ],
-    "id": 3637,
+    "_id": 3637,
     "name": "Season 9",
     "season_number": 9,
-    "series_id": 1400,
+    "show_id": 1400,
     "summary": "The ninth and final season of Seinfeld, began airing on September 25, 1997, and concluded on May 14, 1998, on NBC."
 },
 {
@@ -4667,10 +4667,10 @@
         786179,
         786178
     ],
-    "id": 45139,
+    "_id": 45139,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": ""
 },
 {
@@ -4689,10 +4689,10 @@
         786149,
         786150
     ],
-    "id": 45137,
+    "_id": 45137,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": ""
 },
 {
@@ -4711,10 +4711,10 @@
         786161,
         786162
     ],
-    "id": 45138,
+    "_id": 45138,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": ""
 },
 {
@@ -4733,10 +4733,10 @@
         786191,
         786190
     ],
-    "id": 45140,
+    "_id": 45140,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": "Season three of  SHAMELESS finds each member of the Gallagher family seeking their individual version of the \u201cAmerican Dream.\u201d Jimmy has moved into the Gallagher home, and Fiona is beginning to realize that a long-term relationship isn\u2019t nearly as fulfilling as she expected\u2026 and her GED will only get her so far. Meanwhile, Frank reappears south of the border, with no idea how he got there."
 },
 {
@@ -4755,10 +4755,10 @@
         973232,
         973233
     ],
-    "id": 45141,
+    "_id": 45141,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": "The crazy Gallaghers returned. They have new issues. Lip went to college. Fiona\u2019s life is gradually improving. She has a stable job. The whole family is waiting for news about the health of Frank. Can the Gallaghers finally realize the middle class American dream? This ain\u2019t no tea party."
 },
 {
@@ -4777,10 +4777,10 @@
         1039852,
         1043591
     ],
-    "id": 63466,
+    "_id": 63466,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 34307,
+    "show_id": 34307,
     "summary": "Shameless season 5 finds the Gallaghers dealing with both the upside and downside of personal and urban renewal. As their neighborhood begins a move towards gentrifying, the Gallagher clan begins to reconcile their chaotic past in the hopes of building a better future."
 },
 {
@@ -4789,10 +4789,10 @@
         162257,
         1008121
     ],
-    "id": 6902,
+    "_id": 6902,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": ""
 },
 {
@@ -4821,10 +4821,10 @@
         162592,
         162398
     ],
-    "id": 6904,
+    "_id": 6904,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "The Creepy. The Demented. The Unexplained. The Unearthly. Sam Winchester (Jared Padalecki) grew up hunting such terrifying things. But that\u2019s all past. Law school beckons him. So does safety and normalcy. That is, until Sam\u2019s estranged brother Dean (Jensen Ackles) appears with troubling news: their father has disappeared, a man who\u2019s hunted evil for 22 years. So to find their father, the brothers must hunt what their father hunts\u2026and Sam must return to the life he\u2019d rather leave behind. Hold on tight for all 22 Season One Episodes of the edgy, hip series that has viewers in its grip and critics enthralled. Confront the Supernatural!"
 },
 {
@@ -4853,10 +4853,10 @@
         162404,
         162631
     ],
-    "id": 6905,
+    "_id": 6905,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "They're back the ghouls and vampires, the ghosts and spirits and even more terrifying entities. And wherever these evil beings are, you'll find brothers Sam and Dean Winchester, hunters on the trail of the demon who murdered their mother\u2026and of any other unholy agent of the Supernatural. Join the brothers in their mind-bending, bone-chilling Season 2 road trip across America a journey deeper into the mystery of their own destinies."
 },
 {
@@ -4879,10 +4879,10 @@
         162446,
         162445
     ],
-    "id": 6906,
+    "_id": 6906,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "The yellow-eyed demon is vanquished, but at a terrible price. The battle that brought him down released hundreds of demons from Hell into an unsuspecting world. And it cost Sam his life. But a grief-stricken Dean made a deal with the Crossroad Demon: his soul for Sam's resurrection. Now Dean has just one year to live. One year to fight the unholy, the twisted, the ghoulish. One year to say farewell to Sam. And one year for Sam to search desperately for some way to save his brother. Mind-bending adventure awaits as the Winchester brothers continue their astonishing odyssey into the supernatural...and their personal odyssey into destiny."
 },
 {
@@ -4911,10 +4911,10 @@
         162650,
         162457
     ],
-    "id": 6907,
+    "_id": 6907,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "Resurrection. After enduring unspeakable torture, Dean escapes from Hell, rescued by an all-powerful creature he's never seen before an Angel a warrior of God who recruits Sam and Dean in Heaven's battle against Hell. And there are whispers that a certain fallen angel will soon be freed from his prison deep in Hell: Lucifer. If Sam and Dean can't stop it if Lucifer walks free he'll bring on the Apocalypse. Meanwhile, the Winchester brothers reunite and hit the road, battling the supernatural wherever they go. They encounter demons, spirits, Dracula himself and even a drunk, heavily armed seven-foot-tall teddy bear. All the while, the ultimate war draws them into its horror throughout this enthralling six-disc, 22-episode Season Four set. Caught between Heaven and Hell, between God and the Devil, the Winchester brothers must battle for the future of humankind."
 },
 {
@@ -4943,10 +4943,10 @@
         162668,
         162669
     ],
-    "id": 6908,
+    "_id": 6908,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "Two brothers and one fallen angel - against all the might of Satan and his army! As the Apocalypse grows closer, threatening to turn Earth into a battlefield soaked with human blood, Sam, Dean and Castiel struggle against daunting odds. New foes arise, including the Four Horsemen of the Apocalypse. Old friends depart, consumed by the fearsome wrath of Hell. Through it all, the Winchesters are targeted by demons and angels alike, who warn that each brother has a special and terrible role to play in the coming devastation. Season Five follows Sam and Dean on their most terrifying journey yet, one that may lead them to the only ally strong enough to defeat the Devil: God."
 },
 {
@@ -4975,10 +4975,10 @@
         162248,
         162531
     ],
-    "id": 6909,
+    "_id": 6909,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": " \n\nThe prize: ending the Apocalypse. The price: Sam's life. Season 5's horrific finale left Dean alone, as Sam descended into Hell. Now a different man, Dean vows to stop hunting and devote himself to building a family with Lisa and her son Ben. Then, mysteriously, Sam reappears, drawing Dean back into the old life. But Sam's a different man too. He's returned without his soul. How the Winchesters confront this greatest challenge yet to their powerful bond is the troubled heart - and soul - of the profound and thrilling 22-Episode Season 6. As the brothers struggle to reunite, they must also battle deadly supernatural forces. Demons. Angels. Vampires. Shapeshifters. And a terrifying new foe called the Mother of All."
 },
 {
@@ -5008,10 +5008,10 @@
         162695,
         163112
     ],
-    "id": 6910,
+    "_id": 6910,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": " \n\nIn Season 7, Sam and Dean fight demons. Real demons, like Lucifer, who tortures Sam with visions of Hell. Private demons, as the brothers face a traumatic personal loss when Bobby is cut down by alien forces. And as Sam and Dean travel the back roads of America, hunting monsters who wreak havoc on the innocent, a new and more terrible foe hunts them: Leviathans, freed from Purgatory and immune to the brothers' arsenal of weapons and cunning. With Bobby gone, all Sam and Dean can rely on is each other. But will that be enough? Uncover the terrifying revelations in this 23-episode Season 7."
 },
 {
@@ -5041,10 +5041,10 @@
         162704,
         162705
     ],
-    "id": 6911,
+    "_id": 6911,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "After a year apart, Sam and Dean are reunited in the Eighth Season premiere. After escaping from Purgatory with the help of a vampire named Benny, Dean heads straight for Sam, but the reunion isn't exactly everything he imagined it would be. Although Sam drops everything to join his brother, leaving the life he had grown accustomed to enjoy turns out to be harder than he imagined. In the meantime, Benny\u2019s help turns out to be more than what Dean bargained for. As the brothers struggle with their unexpected reunion, they make a shocking discovery that could lead them on a deeply personal mission to settle old scores. If only they could agree \u2013 is this a \u201cfamily business\u201d or isn\u2019t it? Discover the secrets and mysteries in these 23 must-watch episodes."
 },
 {
@@ -5074,10 +5074,10 @@
         975407,
         976104
     ],
-    "id": 6903,
+    "_id": 6903,
     "name": "Season 9",
     "season_number": 9,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": " \n\nAfter defeating the Leviathan, Sam and Dean set off on an epic quest to seal the Gates of Hell last season. Facing a series of trials, the Winchesters soon found themselves in the middle of an age-old power struggle between the King of Hell and legions of warrior angels. But with the angels cast out of heaven and walking the earth, things just got very unpredictable."
 },
 {
@@ -5107,10 +5107,10 @@
         1044813,
         1044814
     ],
-    "id": 62088,
+    "_id": 62088,
     "name": "Season 10",
     "season_number": 10,
-    "series_id": 1622,
+    "show_id": 1622,
     "summary": "Season 10 begins with Sam\u2019s frantic search for his missing brother, who is gone without a trace. The road to recovering the wayward Dean takes Sam down dark paths, with consequences that will shake the boys to their core. Meanwhile, Castiel has to pick up the pieces in the aftermath of Metatron\u2019s campaign. With his grace failing and rogue angels still on the loose, Cas will face the ticking clock of his own mortality as all-new threats emerge to once again push all of our heroes to their limits."
 },
 {
@@ -5130,10 +5130,10 @@
         991805,
         991806
     ],
-    "id": 55214,
+    "_id": 55214,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 48866,
+    "show_id": 48866,
     "summary": "Set 97 years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends 100 juvenile delinquents back to Earth in hopes of possibly re-populating the planet."
 },
 {
@@ -5156,10 +5156,10 @@
         1038153,
         1038152
     ],
-    "id": 62026,
+    "_id": 62026,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 48866,
+    "show_id": 48866,
     "summary": ""
 },
 {
@@ -5212,55 +5212,55 @@
         515624,
         515625
     ],
-    "id": 25502,
+    "_id": 25502,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
     "air_date": "2006-04-08",
     "episodes": [],
-    "id": 25503,
+    "_id": 25503,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
     "air_date": "2007-01-25",
     "episodes": [],
-    "id": 25504,
+    "_id": 25504,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
     "air_date": "2008-01-08",
     "episodes": [],
-    "id": 25505,
+    "_id": 25505,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
     "air_date": "2009-01-07",
     "episodes": [],
-    "id": 25506,
+    "_id": 25506,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
     "air_date": "2010-01-06",
     "episodes": [],
-    "id": 25507,
+    "_id": 25507,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
@@ -5283,10 +5283,10 @@
         515675,
         515672
     ],
-    "id": 25508,
+    "_id": 25508,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 14188,
+    "show_id": 14188,
     "summary": ""
 },
 {
@@ -5296,10 +5296,10 @@
         64740,
         64646
     ],
-    "id": 3732,
+    "_id": 3732,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": ""
 },
 {
@@ -5323,10 +5323,10 @@
         64772,
         64776
     ],
-    "id": 3738,
+    "_id": 3738,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "The first season of the American sitcom The Big Bang Theory was originally aired on CBS from September 24, 2007, to May 19, 2008, over 17 episodes. An unaired pilot also exists. The Season 1 DVD came without a gag reel and is, so far, the only Big Bang Theory DVD set not to have one. The reissued Blu-ray, was released July 10, 2012, and includes a gag reel that is exclusive to the set. The episodes on Blu-ray are all in remastered surround sound, whereas the DVD version had stereo."
 },
 {
@@ -5356,10 +5356,10 @@
         64672,
         64673
     ],
-    "id": 3733,
+    "_id": 3733,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "At work, physicists Leonard and Sheldon and their geek pals conquer the cosmos. At home, real life - from dating to driving - conquers them. This season, Leonard gets a girl. So does Sheldon. (Sheldon?!) Howard drives the Mars Rover into a ditch. Raj woos a terminator. Gorgeous girl-next-door Penny falls under the spell of Age of Conan. And super-smart, ueberconfident Leslie Winkler reduces mere men to spineless jellyfish. Twenty-three laugh-filled episodes from series creators Chuck Lorre (Two and a Half Men) and Bill Prady (Gilmore Girls) and a talented cast with astronomical comedy I.Q.s show why Big Bang is such a big hit."
 },
 {
@@ -5389,10 +5389,10 @@
         64689,
         64690
     ],
-    "id": 3734,
+    "_id": 3734,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "Worlds collide in Season 3! A love affair with Penny has opened a big, wide, wonderful world of romance for Leonard. But Sheldon likes the world just the way it was, thank you. All of which makes for a zany comic triangle with brainy, clueless Sheldon and practical, grounded Penny hilariously vying for the role of hypotenuse."
 },
 {
@@ -5423,10 +5423,10 @@
         64716,
         64642
     ],
-    "id": 3735,
+    "_id": 3735,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "This season the Big Bang gang\u2019s romantic universe expands. On the rebound from Penny, Leonard falls into the arms of Raj\u2019s sister Priya. Sheldon gets a girlfriend, or rather a friend who is a girl: Amy, a dour neurobiologist who declares herself besties with Penny. Howard and Bernadette heat up. And so do Raj and Bernadette (at least in Raj\u2019s Bollywood daydream). All in the furtherance of award-winning genius comedy."
 },
 {
@@ -5457,10 +5457,10 @@
         64738,
         64645
     ],
-    "id": 3736,
+    "_id": 3736,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "The geniuses of The Big Bang Theory get thrown for a bell curve in all 24 episodes of the phenomenally funny fifth season of the hit show. In season five, Penny and Leonard's relationship is relaunched in full \"beta test\" mode, while Sheldon, Howard, and Raj discover the feminine mystique is something that cannot be easily graphed or calculated. As Sheldon makes begrudging amendments to his \"Relationship Agreement\" with his \"friend-who-happens-to-be-a-girl\" Amy Farrah Fowler, Raj contemplates an arranged marriage, and Howard is all-systems-go for both is NASA space launch and wedding to the spirited Bernadette."
 },
 {
@@ -5491,10 +5491,10 @@
         64760,
         64759
     ],
-    "id": 3737,
+    "_id": 3737,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "Whether on or above Earth, hilarity is outrageously universal in TV's most popular comedy featuring four forward-thinking but socially backward geniuses. Fun discoveries multiply: Leonard learns jealousy is bad for a relationship (with Penny) but science is good for seduction (of Penny). Howard finds life in the International Space Station life is no escape from terrestrial turmoil between his mom and his new wife Bernadette. Raj meets someone special who may be a good match, if he can keep her from fleeing mid-date. And then there's Sheldon. He learns what not to say after facing harassment charges or competing for tenure at work and how Dungeons & Dragons can be the icebreaker his relationship with Amy needs."
 },
 {
@@ -5525,10 +5525,10 @@
         975272,
         975625
     ],
-    "id": 3739,
+    "_id": 3739,
     "name": "Season 7",
     "season_number": 7,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "The seventh season of the American sitcom The Big Bang Theory premiered on CBS on September 26, 2013 with two episodes back-to-back. On January 12, 2011, The Big Bang Theory was renewed for an additional three years, extending it through the 2013\u201314 season for a total of seven seasons. Production for the season began on August 14, 2013."
 },
 {
@@ -5559,10 +5559,10 @@
         1050575,
         1050576
     ],
-    "id": 62016,
+    "_id": 62016,
     "name": "Season 8",
     "season_number": 8,
-    "series_id": 1418,
+    "show_id": 1418,
     "summary": "The eighth season of the American sitcom The Big Bang Theory first aired on CBS with a one hour premiere on Monday, September 22, 2014."
 },
 {
@@ -5570,10 +5570,10 @@
     "episodes": [
         914364
     ],
-    "id": 55083,
+    "_id": 55083,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 46952,
+    "show_id": 46952,
     "summary": ""
 },
 {
@@ -5602,10 +5602,10 @@
         974193,
         974455
     ],
-    "id": 55082,
+    "_id": 55082,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 46952,
+    "show_id": 46952,
     "summary": ""
 },
 {
@@ -5632,10 +5632,10 @@
         1049481,
         1053441
     ],
-    "id": 61357,
+    "_id": 61357,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 46952,
+    "show_id": 46952,
     "summary": "The second season premiered on Monday, September 22, 2014, it will then move to Thursdays at 9 PM on February 5, 2015."
 },
 {
@@ -5665,10 +5665,10 @@
         1051232,
         1051233
     ],
-    "id": 60523,
+    "_id": 60523,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 60735,
+    "show_id": 60735,
     "summary": ""
 },
 {
@@ -5688,10 +5688,10 @@
         1050953,
         1052887
     ],
-    "id": 64557,
+    "_id": 64557,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 61888,
+    "show_id": 61888,
     "summary": ""
 },
 {
@@ -5699,10 +5699,10 @@
     "episodes": [
         562148
     ],
-    "id": 28881,
+    "_id": 28881,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": ""
 },
 {
@@ -5731,10 +5731,10 @@
         972791,
         972788
     ],
-    "id": 28882,
+    "_id": 28882,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": "The Vampire Diaries is an American supernatural\u2013romance television series created by Kevin Williamson based on the novels of the same name by author L. J. Smith. It was officially picked up for the 2009\u201310 season on May 19, 2009. It premiered on September 10, 2009 on The CW and received the highest ratings for a series premiere in the networks history scoring 4.91 million live viewers.\n\nThe series focuses on the fictional town of Mystic Falls, Virginia, that is charged with supernatural history. It follows Elena Gilbert portrayed by Nina Dobrev as she begins to get over her parents' death and two vampire brothers, Stefan and Damon Salvatore, portrayed by Paul Wesley and Ian Somerhalder, respectively. Kayla Ewell portrayed Vicki Donovan for the first seven episodes until her character was killed off. Matt Davis was later cast as a history teacher in a recurring role to fill the void. He was later upgraded to series regular status. The season concluded on May 13, 2010, comprising 22 episodes."
 },
 {
@@ -5763,10 +5763,10 @@
         562196,
         562198
     ],
-    "id": 28883,
+    "_id": 28883,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": "The Vampire Diaries was officially renewed by The CW for a full 22-episode season on February 16, 2010. The first episode premiered on September 9, 2010, at 8 p.m. ET. The season picks up immediately after the events of the season one finale. All the series regulars returned. Season two focuses on the return of Elena Gilbert\u2019s doppelg\u00e4nger, Katherine Pierce, the introduction of werewolves, the sun and moon curse, and the arrival of the original vampires. Tyler Lockwood\u2019s uncle, Mason Lockwood, arrives in town searching for the moonstone, a family heirloom. Tyler later learns of his family\u2019s werewolf curse. Meanwhile, Caroline Forbes is killed by Katherine while having Damon Salvatore's blood in her system, turning her into a vampire. The arrival of the original vampires, Elijah and Klaus Mikaelson, also bring about complications. Klaus is a vampire-werewolf hybrid, but his werewolf side had been forced into dormancy by witches, as nature would not stand for such an imbalance in power. Therefore Klaus arrives in town with plans to break the curse and unleash his werewolf side by channelling the power of the full moon into the moonstone, sacrificing a vampire and a werewolf, and drinking the blood of the doppelg\u00e4nger. The season became available on DVD and Blu-ray on August 30, 2011."
 },
 {
@@ -5795,10 +5795,10 @@
         562216,
         562217
     ],
-    "id": 28884,
+    "_id": 28884,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": "The Vampire Diaries was officially renewed for a third season by The CW on April 26, 2011 that aired from September 15, 2011 to May 10, 2012. The third season consisted of 22 episodes and focused on the story of Klaus' origin, his relation with his family and reveal more about the original family. The third season opened to generally positive reviews. The season takes a gap from the last season and begins with Elena Gilbert's 18th birthday with all series regulars returning with the exception of Sara Canning whose character Jenna Sommers was killed off in the previous season. Joseph Morgan's character Klaus became a series regular instead of returning as a recurring character."
 },
 {
@@ -5828,10 +5828,10 @@
         562240,
         562241
     ],
-    "id": 28885,
+    "_id": 28885,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": "The Vampire Diaries, a one-hour American supernatural drama, was renewed for a fourth season by the U.S. channel The CW on May 3, 2012, seven days before the third season's finale. Unlike the previous seasons that aired in September, it premiered on October 11, 2012, to avoid competition from major television shows. Season 4 consisted of 23 episodes instead of the usual 22 episodes. All the previous season's characters returned as series regulars apart from Matthew Davis, who was killed off in the Season 3 finale but made guest appearances in the second, twenty-second and twenty-third episodes of the new season.\n\nOn January 11, 2013, it was announced that a back-door pilot focused on the Originals, titled The Originals will air on April 25 for series pick-up. On April 26, 2013, The CW announced that The Originals, The Vampire Diaries' spin-off series, was picked up for a full season slated to premiere next fall.\n\nOn February 11, 2013, The CW renewed the series for a fifth season."
 },
 {
@@ -5860,10 +5860,10 @@
         975323,
         975414
     ],
-    "id": 28886,
+    "_id": 28886,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": "The Vampire Diaries, a one-hour American supernatural drama, was renewed for a fifth season by the U.S. channel The CW on February 11, 2013. The fifth season will premiere on October 3, 2013, followed by the series premiere of the spin-off The Originals."
 },
 {
@@ -5891,10 +5891,10 @@
         1052941,
         1050822
     ],
-    "id": 62019,
+    "_id": 62019,
     "name": "Season 6",
     "season_number": 6,
-    "series_id": 18165,
+    "show_id": 18165,
     "summary": ""
 },
 {
@@ -5936,10 +5936,10 @@
         976154,
         994964
     ],
-    "id": 3646,
+    "_id": 3646,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": ""
 },
 {
@@ -5952,10 +5952,10 @@
         63340,
         63341
     ],
-    "id": 3643,
+    "_id": 3643,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": "The first season of AMC's television series The Walking Dead premiered on October 31, 2010 and concluded on December 5, 2010. The series is based on the series of graphic novels of the same name by Robert Kirkman, Tony Moore and Charlie Adlard. It was developed for television by Frank Darabont, who wrote or co-wrote four of the season's six episodes and directed the pilot.\n\nThe first season was met with positive reviews from critics and gained 5.35 million viewers on its premiere. The finale garnered six million viewers and among adults ages 18\u201349 it became the most viewed basic cable drama series of all time."
 },
 {
@@ -5975,10 +5975,10 @@
         63354,
         63353
     ],
-    "id": 3644,
+    "_id": 3644,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": "The second season of AMC's television series The Walking Dead premiered on October 16, 2011 on AMC and featured 13 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont, who serves as executive producer for the second season along with Kirkman, Glen Mazzara, and Gale Anne Hurd.\n\nThe season finale episode was viewed by 9.0 million viewers, making it the highest rated episode of the series to that point, and the most viewed episode of an original series on AMC in history, up until the premiere of the show's third season, which was watched by 10.9 million viewers."
 },
 {
@@ -6001,10 +6001,10 @@
         63368,
         63370
     ],
-    "id": 3645,
+    "_id": 3645,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": "The third season of AMC's television series The Walking Dead premiered on October 14, 2012 and featured 16 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont, and is executive produced by Kirkman, Glen Mazzara, and Gale Anne Hurd. As in the comics, the season is set in both an abandoned prison and an active rural town of survivors. It introduces several notable characters from the comics, including The Governor, Michonne, and Tyreese."
 },
 {
@@ -6027,10 +6027,10 @@
         971561,
         971562
     ],
-    "id": 3647,
+    "_id": 3647,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": "The fourth season of AMC's television series The Walking Dead premiered on October 13, 2013, and consist of 16 episodes. The series is based on the series of comic books of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard; it was developed for television by Frank Darabont, and is executive produced by Kirkman, Scott M. Gimple, Greg Nicotero, and Gale Anne Hurd. Gimple assumed the role of showrunner after the departure of Glen Mazzara at the conclusion of the previous season. It will introduce the notable comic character, Rosita Espinosa."
 },
 {
@@ -6053,10 +6053,10 @@
         1044335,
         1044336
     ],
-    "id": 60391,
+    "_id": 60391,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 1402,
+    "show_id": 1402,
     "summary": "AMC\u2019s hit zombie drama The Walking Dead premiered on October 12, 2014. After the season 4 finale left most of the main characters at the mercy of the sadistic inhabitants of Terminus. Season 5 will offer new directions for the group of survivors as scientist Eugene Porter promises a cure to the zombie virus if he can be safely escorted to Washington DC, but getting there is easier said than done."
 },
 {
@@ -6064,10 +6064,10 @@
     "episodes": [
         771529
     ],
-    "id": 44147,
+    "_id": 44147,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6082,10 +6082,10 @@
         771507,
         771508
     ],
-    "id": 44144,
+    "_id": 44144,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6102,10 +6102,10 @@
         771520,
         771528
     ],
-    "id": 44146,
+    "_id": 44146,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6122,10 +6122,10 @@
         771517,
         771518
     ],
-    "id": 44145,
+    "_id": 44145,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6142,10 +6142,10 @@
         771532,
         980818
     ],
-    "id": 44148,
+    "_id": 44148,
     "name": "Season 4",
     "season_number": 4,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6162,10 +6162,10 @@
         990185,
         990184
     ],
-    "id": 61254,
+    "_id": 61254,
     "name": "Season 5",
     "season_number": 5,
-    "series_id": 32900,
+    "show_id": 32900,
     "summary": ""
 },
 {
@@ -6174,10 +6174,10 @@
         127425,
         127427
     ],
-    "id": 5553,
+    "_id": 5553,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1918,
+    "show_id": 1918,
     "summary": ""
 },
 {
@@ -6243,10 +6243,10 @@
         127146,
         127190
     ],
-    "id": 5550,
+    "_id": 5550,
     "name": "(1985) season 1",
     "season_number": 1,
-    "series_id": 1918,
+    "show_id": 1918,
     "summary": ""
 },
 {
@@ -6276,10 +6276,10 @@
         127282,
         127283
     ],
-    "id": 5551,
+    "_id": 5551,
     "name": "(1985) season 2",
     "season_number": 2,
-    "series_id": 1918,
+    "show_id": 1918,
     "summary": ""
 },
 {
@@ -6318,10 +6318,10 @@
         127423,
         127387
     ],
-    "id": 5552,
+    "_id": 5552,
     "name": "(1985) season 3",
     "season_number": 3,
-    "series_id": 1918,
+    "show_id": 1918,
     "summary": ""
 },
 {
@@ -6394,10 +6394,10 @@
         127902,
         127900
     ],
-    "id": 5558,
+    "_id": 5558,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 1920,
+    "show_id": 1920,
     "summary": ""
 },
 {
@@ -6412,10 +6412,10 @@
         127677,
         127679
     ],
-    "id": 5556,
+    "_id": 5556,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 1920,
+    "show_id": 1920,
     "summary": ""
 },
 {
@@ -6444,10 +6444,10 @@
         127793,
         127795
     ],
-    "id": 5557,
+    "_id": 5557,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 1920,
+    "show_id": 1920,
     "summary": ""
 },
 {
@@ -6467,10 +6467,10 @@
         1045387,
         1045388
     ],
-    "id": 63619,
+    "_id": 63619,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 61671,
+    "show_id": 61671,
     "summary": ""
 },
 {
@@ -6487,10 +6487,10 @@
         1049896,
         1051106
     ],
-    "id": 64635,
+    "_id": 64635,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 61915,
+    "show_id": 61915,
     "summary": ""
 },
 {
@@ -6498,10 +6498,10 @@
     "episodes": [
         892441
     ],
-    "id": 53335,
+    "_id": 53335,
     "name": "Season Specials",
     "season_number": 0,
-    "series_id": 44217,
+    "show_id": 44217,
     "summary": ""
 },
 {
@@ -6517,10 +6517,10 @@
         892439,
         892440
     ],
-    "id": 53334,
+    "_id": 53334,
     "name": "Season 1",
     "season_number": 1,
-    "series_id": 44217,
+    "show_id": 44217,
     "summary": ""
 },
 {
@@ -6537,10 +6537,10 @@
         974631,
         975352
     ],
-    "id": 53336,
+    "_id": 53336,
     "name": "Season 2",
     "season_number": 2,
-    "series_id": 44217,
+    "show_id": 44217,
     "summary": ""
 },
 {
@@ -6557,10 +6557,10 @@
         1047166,
         1049832
     ],
-    "id": 64422,
+    "_id": 64422,
     "name": "Season 3",
     "season_number": 3,
-    "series_id": 44217,
+    "show_id": 44217,
     "summary": ""
 }
 ]
