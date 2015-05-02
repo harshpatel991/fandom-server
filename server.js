@@ -86,13 +86,48 @@ function isLoggedIn(req, res, next) {
 //------------------Get all Users------------------//
 var usersRoute = router.route('/users');
 usersRoute.get(function (req, res) {
-  User.find().exec(function (err, users) {
-    if(!users) {
+  var query;
+  //Retrieve all the possible query strings
+  var sort = eval( "(" + req.query.sort + ")" );
+  var select = eval( "(" + req.query.select + ")" );
+  var skip = eval( "(" + req.query.skip + ")" );
+  var limit = eval( "(" + req.query.limit + ")" );
+  var count = eval( "(" + req.query.count + ")" );
+
+  query = User.find();
+
+  if(select)
+    query.select(select);
+
+  if(sort)
+    query.sort(sort);
+
+  if(skip)
+    query.skip(skip);
+
+  if(limit)
+    query.limit(limit);
+
+  if(count)
+    query.count();
+
+  //Execute DB query
+  query.exec(function (err, users) {
+    if(err)
       res.status(404).send({message: "Error: No Users Found", data: []});
-    }
-    else {
-      res.status(200).json({message: "Ok", data: users});
-    }
+    else
+       res.status(200).json({message: "Ok", data: users});
+  });
+});
+
+//------------------Get a Specific User------------------//
+var specificUsersRoute = router.route('/users/:id');
+specificUsersRoute.get(function (req, res) {
+  User.findById(req.params.id, function (err, user) {
+    if(!user)
+      res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
+    else
+      res.status(200).json({message: "Ok", data: user});
   });
 });
 
@@ -100,7 +135,9 @@ usersRoute.get(function (req, res) {
 var usersCommentsRoutes = router.route('/user_comments/:id');
 
 usersCommentsRoutes.get(function(req, res){
-  User.findById(req.params.id, function (err, user) {
+  var sort = eval( "(" + req.query.sort + ")" );
+
+  User.findById(req.params.id).sort(sort).exec(function (err, user) {
     if(!user) {
       res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
     }
@@ -268,6 +305,38 @@ specificEpisodeRotue.get(function (req, res) {
   });
 });
 
+specificEpisodeRotue.put(function (req, res) {
+
+  var episodeID = req.params.id;
+  //Rating Count is for the +/- of the rating count
+  //Rating Star Count is for the +/- of the rating sum
+  var ratingCount = req.body.rating;
+  var ratingStarCount = req.body.star_rating;
+
+  //See if Name and Email specified since they are required
+  if(ratingCount === undefined || ratingStarCount === undefined) {
+    res.status(500).send({message: "Error: Rating and Rating Star Count are required", data: []});
+  }
+  else {
+    Episode.findById(episodeID, function (err, episode) {
+      if(!episode) {
+        res.status(404).send({message: "Error: Invalid ID, No Episode Found", data: []});
+      }
+      else{
+        //Found the episode, now we need to update its rating_sum and rating_count
+        episode.rating_count += ratingCount;
+        episode.rating_sum += ratingStarCount;
+        episode.save(function (err) {
+          if(err) {
+            res.status(500).send({message: "Error: Database unable to update episode", data: []});
+          }
+          else
+            res.status(200).json({message: "Ok: Episode updated", data: episode});
+        });
+      }
+    });
+  }
+});
 
 // Start the server
 app.listen(port);

@@ -12,8 +12,8 @@ var EpisodeSchema   = new mongoose.Schema({
   season_number: Number,
   show_id: Number,
   summary: String,
-  rating_sum: Number,
-  rating_count: Number
+  rating_sum: { type: Number, default: 0},
+  rating_count: { type: Number, default: 0}
 });
 
 // Export the Mongoose model
