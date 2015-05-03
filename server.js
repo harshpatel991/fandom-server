@@ -132,16 +132,23 @@ specificUsersRoute.get(function (req, res) {
   });
 });
 
-//TODO: Add Comments Arrays
 specificUsersRoute.put(function (req, res) {
   var userID = req.params.id;
   var favoriteArray = req.body.favorites;
+  var upvoted = req.body.comments_upvoted;
+  var downvoted = req.body.comments_downvoted;
+
   User.findById(userID, function (err, user) {
     if(!user)
       res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
     else {
       //Update user
-      user.favorites = favoriteArray;
+      if(favoriteArray !== undefined)
+        user.favorites = favoriteArray;
+      if(upvoted !== undefined)
+        user.comments_upvoted = upvoted;
+      if(downvoted !== undefined)
+        user.comments_downvoted = downvoted;
       user.save(function (err) {
         if(err)
           res.status(500).send({message: "Error: Database unable to update user", data: []});
