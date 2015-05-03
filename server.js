@@ -142,13 +142,15 @@ specificUsersRoute.put(function (req, res) {
     if(!user)
       res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
     else {
-      //Update user
+      //Only update the arrays if one was passed in/defined
       if(favoriteArray !== undefined)
         user.favorites = favoriteArray;
       if(upvoted !== undefined)
         user.comments_upvoted = upvoted;
       if(downvoted !== undefined)
         user.comments_downvoted = downvoted;
+
+      //Save updated user to database
       user.save(function (err) {
         if(err)
           res.status(500).send({message: "Error: Database unable to update user", data: []});
@@ -341,7 +343,7 @@ specificEpisodeRotue.put(function (req, res) {
   var ratingCount = req.body.rating;
   var ratingStarCount = req.body.star_rating;
 
-  //See if Name and Email specified since they are required
+  //See if Rating Count and Star Count are specified since they are required
   if(ratingCount === undefined || ratingStarCount === undefined) {
     res.status(500).send({message: "Error: Rating and Rating Star Count are required", data: []});
   }
