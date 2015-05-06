@@ -308,7 +308,23 @@ specificShowRoute.get(function(req, res){
   });
 });
 
-//------------------Get a Specific Season------------------//
+//------------------Get a Multiple Seasons using 'where' parameter------------------//
+var multipleSeasonRoute = router.route('/seasons');
+
+multipleSeasonRoute.get(function(req, res){
+
+  var whereParam = eval("("+req.query.where+")");
+  var sortParam = eval( "({air_date: 1})" );
+  Season.find(whereParam).sort(sortParam).exec( function (err, seasons) {
+    if(!seasons) {
+      res.status(404).send({message: "Error: Invalid, No Seasons Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: seasons});
+    }
+  });
+});
+
 var specificSeasonRoute = router.route('/seasons/:id');
 
 specificSeasonRoute.get(function(req, res){
@@ -318,6 +334,22 @@ specificSeasonRoute.get(function(req, res){
     }
     else {
       res.status(200).json({message: "Ok", data: season});
+    }
+  });
+});
+
+//------------------Get Multiple Episodes using 'where' parameter------------------//
+var multipleEpisodeRotue = router.route('/episodes');
+
+multipleEpisodeRotue.get(function (req, res) {
+  var whereParam = eval("("+req.query.where+")");
+  var sortParam = eval( "({air_date: 1})" );
+  Episode.find(whereParam).sort(sortParam).exec(function (err, episodes) {
+    if(!episodes) {
+      res.status(404).send({message: "Error: Invalid, No Episodes Found", data: []});
+    }
+    else {
+      res.status(200).json({message: "Ok", data: episodes});
     }
   });
 });
