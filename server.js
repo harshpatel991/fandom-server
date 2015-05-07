@@ -185,7 +185,7 @@ usersCommentsRoutes.get(function(req, res){
 var show_comments_route = router.route('/show_comments/:ep_id');
 //---get----//
 show_comments_route.get(function(req, res){
-  console.log("GET comments");
+  console.log("GET comments_downvoted");
   var ep_id = req.params.ep_id;
   Comment.find({episode_id:ep_id},function(err,data){
     if(err){
@@ -206,6 +206,7 @@ show_comments_route.post(function(req, res){
   }
 
   comment.poster = req.body.poster;
+  comment.posterName = req.body.posterName;
   comment.post_time = req.body.post_time;
   comment.text = req.body.text;
 
