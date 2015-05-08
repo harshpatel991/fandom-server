@@ -166,21 +166,38 @@ specificUsersRoute.put(function (req, res) {
 });
 
 //------------------Get a Users Comments------------------//
-var usersCommentsRoutes = router.route('/user_comments/:id');
+var usersCommentsRoutes = router.route('/user_comments/:user_id');
 
 usersCommentsRoutes.get(function(req, res){
   var sort = eval( "(" + req.query.sort + ")" );
 
-  User.findById(req.params.id).sort(sort).exec(function (err, user) {
-    if(!user) {
-      res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
+  var userId = req.params.user_id;
+  Comment.find({poster: userId},function(err,data){
+    if(err){
+      res.send({message:err.name,data:[]});
     }
+    else{
+      res.send({message:"Data retrieved",data:data})
+    }
+  });
+});
+
+//------------------Get a User's Favorite Shows------------------//
+var userFavoritesRoute = router.route('/user_favorites/:user_id');
+
+userFavoritesRoute.get(function (req, res) {
+  User.findById(req.params.user_id, function (err, user) {
+    if(!user)
+      res.status(404).send({message: "Error: Invalid ID, No User Found", data: []});
     else {
-      //Creates an object that will contain the upvoted and downvoted comments to return
-      var comments = {};
-      comments.upvoted = user.comments_upvoted;
-      comments.downvoted = user.comments_downvoted;
-      res.status(200).json({message: "Ok", data: comments});
+      Show.find({'_id': { $in: user.favorites}}, function(err, shows){
+        if (!shows){
+          res.status(404).send({message: "Error: Invalid Show ID", data: []});
+        }
+        else{
+          res.status(200).json({message: "Ok", data: shows});
+        }
+      });
     }
   });
 });
@@ -237,11 +254,11 @@ vote_comments_route.put(function(req, res){
         else{
           data.points -= 1;
         }
-        res.send({message:"Data retrieved",data:data})
+        res.send({message:"Data retrieved",data:data});
         data.save();
       }
   });
-})
+});
 
 
 //------------------delete_comments------------------//
