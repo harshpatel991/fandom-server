@@ -6,6 +6,7 @@ var CommentSchema   = new mongoose.Schema({
   episode_id: Number,
   parent_id: {type: String, default: "-1"},
   poster: String,
+  posterName: String,
   post_time: Date,
   points: {type: Number, default: 0}
 });
