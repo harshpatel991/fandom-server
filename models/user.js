@@ -8,7 +8,8 @@ var userSchema = mongoose.Schema({
     },
     favorites: { type: [Number], default: []},
     comments_upvoted: { type: [Number], default: []},
-    comments_downvoted: { type: [Number], default: []}
+    comments_downvoted: { type: [Number], default: []},
+    episodes_ratings: [{ type: mongoose.Schema.Types.Mixed}]
 });
 
 userSchema.methods.generateHash = function(password) {

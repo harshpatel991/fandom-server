@@ -138,6 +138,7 @@ specificUsersRoute.put(function (req, res) {
   var favoriteArray = req.body.favorites;
   var upvoted = req.body.comments_upvoted;
   var downvoted = req.body.comments_downvoted;
+  var episodesRatings = req.body.episodes_ratings;
 
   User.findById(userID, function (err, user) {
     if(!user)
@@ -150,6 +151,8 @@ specificUsersRoute.put(function (req, res) {
         user.comments_upvoted = upvoted;
       if(downvoted !== undefined)
         user.comments_downvoted = downvoted;
+      if(episodesRatings !== undefined)
+        user.episodes_ratings = episodesRatings;
 
       //Save updated user to database
       user.save(function (err) {
@@ -373,7 +376,7 @@ specificEpisodeRotue.put(function (req, res) {
   var episodeID = req.params.id;
   //Rating Count is for the +/- of the rating count
   //Rating Star Count is for the +/- of the rating sum
-  var ratingCount = req.body.rating;
+  var ratingCount = req.body.count_rating;
   var ratingStarCount = req.body.star_rating;
 
   //See if Rating Count and Star Count are specified since they are required
@@ -387,8 +390,14 @@ specificEpisodeRotue.put(function (req, res) {
       }
       else{
         //Found the episode, now we need to update its rating_sum and rating_count
-        episode.rating_count += ratingCount;
-        episode.rating_sum += ratingStarCount;
+        console.log("before rating count: " + episode.rating_count);
+        console.log("before rating value: " + episode.rating_sum);
+        episode.rating_count += parseInt(ratingCount);
+        episode.rating_sum += parseInt(ratingStarCount);
+
+        console.log("rating count: " + episode.rating_count);
+        console.log("rating value: " + episode.rating_sum);
+
         episode.save(function (err) {
           if(err) {
             res.status(500).send({message: "Error: Database unable to update episode", data: []});
