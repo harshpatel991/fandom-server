@@ -177,7 +177,7 @@ usersCommentsRoutes.get(function(req, res){
   var sort = eval( "(" + req.query.sort + ")" );
 
   var userId = req.params.user_id;
-  Comment.find({poster: userId},function(err,data){
+  Comment.find({poster_id: userId},function(err,data){
     if(err){
       res.send({message:err.name,data:[]});
     }
@@ -231,10 +231,12 @@ show_comments_route.post(function(req, res){
     comment.parent_id = req.body.parent_id;
   }
 
-  comment.poster = req.body.poster;
-  comment.posterName = req.body.posterName;
+  comment.poster_id = req.body.poster_id;
+  comment.poster_name = req.body.poster_name;
   comment.post_time = req.body.post_time;
   comment.text = req.body.text;
+  comment.episode_name = req.body.episode_name;
+  comment.show_name = req.body.show_name;
 
   comment.save();
   res.send({message:"created", data:comment});
