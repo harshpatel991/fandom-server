@@ -244,26 +244,30 @@ show_comments_route.post(function(req, res){
 
 //------------------vote_comments------------------//
 var vote_comments_route = router.route('/vote_comments/:comment_id');
-vote_comments_route.put(function(req, res){
+vote_comments_route.put(function(req, res) {
   //change ratings
   var comment_id = req.params.comment_id;
-  var IncOrDec = req.body.IncOrDec;
+  var valueChange = parseInt(req.body.valueChange);
   var condition = {_id: comment_id};
-  
-  Comment.findOne(condition,function(err, data){
-    if(err){
-        res.send({message:err.name,data:[]});
-      }
-      else{
-        if(IncOrDec == "increase"){
-           data.points += 1;
+
+  Comment.findOne(condition, function (err, data) {
+    if (err) {
+      res.status(404).send({message: err.name, data: []});
+    }
+    else {
+      data.points += valueChange;
+
+      data.save(function (err) {
+        if (err) {
+          res.status(500).send({message: "Error: Database unable to save vote", data: []});
         }
-        else{
-          data.points -= 1;
+        else {
+          res.status(201).json({message: "Vote Saved", data: data})
         }
-        res.send({message:"Data retrieved",data:data});
+        res.send({message: "Data retrieved", data: data})
         data.save();
-      }
+      })
+    }
   });
 });
 

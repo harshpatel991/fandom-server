@@ -7,8 +7,8 @@ var userSchema = mongoose.Schema({
         password	: String
     },
     favorites: { type: [Number], default: []},
-    comments_upvoted: { type: [Number], default: []},
-    comments_downvoted: { type: [Number], default: []},
+    comments_upvoted: { type: [mongoose.Schema.Types.Mixed], default: []},
+    comments_downvoted: { type: [mongoose.Schema.Types.Mixed], default: []},
     episodes_ratings: [{ type: mongoose.Schema.Types.Mixed}]
 });
 
