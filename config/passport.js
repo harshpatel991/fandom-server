@@ -55,4 +55,23 @@ module.exports = function(passport) {
             });
         }));
 
+    passport.use('local-changepass', new LocalStrategy({
+            usernameField : 'email',
+            passwordField : 'password'
+        },
+        function(email, newPassword, done) {
+            User.findOne({'local.email' : email}, function(err, user) {
+                if(err)
+                    return done(err);
+                if(!user)
+                    return done(null, false);
+                user.local.password = user.generateHash(newPassword);
+                user.save(function(err) {
+                    if(err)
+                        return done(err);
+                    return done(null, user);
+                })
+            });
+        }));
+
 };

@@ -62,6 +62,11 @@ app.post('/api/login', passport.authenticate('local-login'), function(req, res) 
   res.status(201).json({message: 'Logged in'});
 });
 
+app.post('/api/change_password', passport.authenticate('local-changepass'), function(req, res) {
+  console.log("POST to change password");
+  res.status(201).json({message: 'Password changed'});
+});
+
 app.get('/api/profile', isLoggedIn, function(req, res) {
   res.status(200).json({
     user: req.user
